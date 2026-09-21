@@ -1,0 +1,5 @@
+@font-face{font-family:Geist;src:url('./fonts/Geist-400.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:Geist;src:url('./fonts/Geist-600.ttf') format('truetype');font-style:normal;font-weight:500 900;font-display:swap}
+:root{--font-geist-sans:Geist;--font-geist-mono:Geist}
+html,body{background:white;margin:0;padding:0}
+.atlas.embedded{padding:0;max-width:none}.embedded .stage-shell{max-width:none;margin:0;padding:4px 1px 12px}.embedded .question-bar{margin-bottom:20px;padding:0 2px}.embedded .controls{gap:12px}.embedded .stage-footer{padding-inline:3px}

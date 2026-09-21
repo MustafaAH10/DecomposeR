@@ -9,6 +9,35 @@ reports in dependency order and synthesizes the final report. The released
 checkpoint is a **merged Qwen3-8B model** used in both roles; the demo does not
 load or switch between two separately released LoRA adapters.
 
+## Research demonstrations
+
+[Explore all 20 interactive planner–answerer demonstrations](https://mustafaah10.github.io/DecomposeR/#research-viewer).
+Each 20-second replay shows a real saved rollout: planning, search, revision,
+branch reports written in the same execution wave, and final synthesis. The
+animations compress timing; they are not recordings of streamed tokens.
+
+### Tree roots and nitrogen leaching
+
+[![Animated research replay: tree roots and nitrogen leaching](showcase/previews/demo01.gif)](showcase/videos/demo01.mp4)
+
+[Watch or download the 1080p MP4](showcase/videos/demo01.mp4)
+
+### Sodium-ion batteries
+
+[![Animated research replay: sodium-ion batteries](showcase/previews/demo03.gif)](showcase/videos/demo03.mp4)
+
+[Watch or download the 1080p MP4](showcase/videos/demo03.mp4)
+
+### Long-duration energy storage
+
+[![Animated research replay: long-duration energy storage](showcase/previews/demo12.gif)](showcase/videos/demo12.mp4)
+
+[Watch or download the 1080p MP4](showcase/videos/demo12.mp4)
+
+The previews above link to the actual videos, which are included in this private
+repository. The public project page has all 20 videos, clickable graph nodes,
+node-to-node navigation, source links, and complete model reports.
+
 ## Start here
 
 | Task | Location |
@@ -32,6 +61,7 @@ artifacts/
 examples/             New, explicitly separate demonstration questions
 scripts/              Demo generation and release-validation utilities
 docs/                 Release audit and archived submission documentation
+showcase/             Three video examples, animated previews and viewer source
 ```
 
 The benchmark trajectories are lean: they preserve graphs, model outputs,
