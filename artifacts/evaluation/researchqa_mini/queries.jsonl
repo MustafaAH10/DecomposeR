@@ -1,0 +1,776 @@
+{"query_id": "17434250101395-s6", "query": "How do task transformation methods improve the adaptability and generalization of generative information extraction models?"}
+{"query_id": "17442127179138-s49", "query": "How do non-parametric models address the challenges of training time and visual quality in image synthesis compared to parametric-based models?"}
+{"query_id": "17442127975182-s5", "query": "What are the main types of distortions found in real-world lenses, and how are these distortions typically parameterized?"}
+{"query_id": "17442128717542-s4", "query": "What are the limitations and challenges associated with manually annotating 2D hand keypoints on depth images?"}
+{"query_id": "17442129348392-s10", "query": "How are tree and graph structures used to model relationships in human parsing tasks?"}
+{"query_id": "17442129826803-s28", "query": "How do pseudo-labels improve object localization performance in unsupervised methods?"}
+{"query_id": "17442130919610-s16", "query": "How do diffusion models generate synthetic data, and what are the phases involved in this process?"}
+{"query_id": "174539434700383363-s13", "query": "How are sentiment scores derived from social media texts and incorporated into models that predict cryptocurrency prices?"}
+{"query_id": "174539434700384356-s1", "query": "How do the World Bank and IMF databases differ in their approaches to measuring financial inclusion?"}
+{"query_id": "174539434801534135-s1", "query": "How does strain-softening behavior in sensitive clays differ from that in non-sensitive clays in terms of pore pressure development, shear strength, and strain effects?"}
+{"query_id": "174539434801539729-s5", "query": "How does the temporal ordering of data impact the choice of data splitting methods and the training-to-testing ratio in landslide prediction time series models?"}
+{"query_id": "174539434801611044-s6", "query": "How do the “push” and “pull” hypotheses explain the impact of unemployment on new firm formation, and in what ways do they differ?"}
+{"query_id": "174539434801611044-s7", "query": "What are the three distinct public policy effects identified in UK research on unemployment and new firm formation, and how do these policies influence the creation of firms and the choice of their legal structure?"}
+{"query_id": "174539434801611592-s6", "query": "How does the gender composition of entrepreneurial teams influence investor interest, funding amounts, and the success of equity crowdfunding campaigns?"}
+{"query_id": "174539434801617246-s10", "query": "In what ways do financial resource challenges hinder the success of start-ups in emerging economies?"}
+{"query_id": "174539434801619231-s19", "query": "How do changes in employment status demonstrate that entrepreneurs experience higher satisfaction levels independent of individual optimism?"}
+{"query_id": "174539434801735418-s16", "query": "What economic variables have researchers studied to evaluate the impact of fintech on financial inclusion and sustainable development?"}
+{"query_id": "174539434801871120-s11", "query": "According to managerial power theory, what motivates managers to limit disclosures about their remuneration packages?"}
+{"query_id": "174539434801871120-s4", "query": "How do agency theory and signaling theory explain the role of information disclosure in mitigating conflicts related to executive remuneration?"}
+{"query_id": "174539434801871687-s6", "query": "What are the main clusters identified through co-citation analysis in market orientation research related to hotel companies, and what are their key characteristics?"}
+{"query_id": "174539434801872640-s3", "query": "How does the accelerator theory explain the impact of macroeconomic factors on capital investment decisions in corporate firms?"}
+{"query_id": "174539434801873399-s2", "query": "How do the five key pillars of Islamic banking collectively form the foundational principles that govern Islamic banking contracts?"}
+{"query_id": "174539434801873399-s3", "query": "How do profit-sharing participation contracts operate in Islamic finance, particularly regarding the roles of parties involved, distribution of profits, and control over business decisions?"}
+{"query_id": "174539434801873399-s4", "query": "How do the sources of funds, contractual frameworks, and profit-loss sharing mechanisms distinguish Islamic banks from conventional banks?"}
+{"query_id": "174539434801873399-s9", "query": "How do the capital buffer and capital ratio each affect credit risk levels in Malaysian Islamic Banks?"}
+{"query_id": "174539434801874328-s2", "query": "How do hybrid financial instruments integrate the characteristics of grants and loans to effectively support cultural heritage projects?"}
+{"query_id": "174539434801876440-s15", "query": "How are studies on organisational location in sustainability reporting categorized geographically, and what are the key findings regarding the distribution of these studies?"}
+{"query_id": "174539434801876909-s3", "query": "How do specific financial ratios and firm size affect the default risk and survival prospects of hotels across different European countries?"}
+{"query_id": "174539434801878400-s1", "query": "What historical developments contributed to the creation and importance of the London and New York Stock Exchanges?"}
+{"query_id": "174539434801879427-s5", "query": "How can empirical research on green bonds be systematically categorized according to their primary research objectives?"}
+{"query_id": "174539434801879631-s13", "query": "How does the adoption of XBRL improve the quality and transparency of financial reporting?"}
+{"query_id": "174539434801879701-s3", "query": "How does the proportion of institutional ownership affect firm performance in Middle Eastern companies?"}
+{"query_id": "174539434801879701-s4", "query": "How does Resource Dependence Theory explain the potential advantages of government ownership for firm performance in the Middle East?"}
+{"query_id": "174539434801909281-s1", "query": "What are the most common antitakeover provisions that firms adopt, and how do these mechanisms work to deter hostile takeovers?"}
+{"query_id": "174539434801909281-s2", "query": "What are the fundamental assumptions underlying the managerial entrenchment hypothesis regarding antitakeover provisions?"}
+{"query_id": "174539434801909281-s8", "query": "How do antitakeover provisions relate to managerial entrenchment, and what impact do they have on nonmanagerial shareholders during IPOs?"}
+{"query_id": "174539434801976958-s12", "query": "How do researchers measure the effects of IFRS adoption on stock market variables such as information asymmetry, liquidity, and valuation?"}
+{"query_id": "174539434801976958-s19", "query": "How do empirical studies explain the conditions under which mandatory IFRS adoption leads to improvements in stock market liquidity and reductions in the cost of capital?"}
+{"query_id": "174539434801976958-s21", "query": "How does the adoption of IFRS improve cross-border mergers and acquisitions by enhancing comparability and reporting quality?"}
+{"query_id": "174539434801976958-s35", "query": "How do researchers empirically investigate the effects of IFRS fair value accounting rules?"}
+{"query_id": "174539434801976958-s42", "query": "What makes Australia’s mandatory adoption of IFRS a particularly valuable case for studying its impact on private firms and the broader economy?"}
+{"query_id": "174539434801978769-s2", "query": "How do the narrow and broad approaches to CSR reporting differ in terms of their scope and the stakeholders they address?"}
+{"query_id": "174539434801978769-s30", "query": "Through what specific mechanisms do standardized CSR disclosures prompt firms to change their CSR activities?"}
+{"query_id": "174539434903292878-s1", "query": "What are the main disadvantages of polysomnography (PSG) that make it challenging to use for long-term sleep monitoring?"}
+{"query_id": "174539434903292878-s24", "query": "How are wearability, usability, and obtrusiveness evaluated and compared across different wearable EEG sleep-monitoring systems?"}
+{"query_id": "174539434903293441-s40", "query": "How does the photoreduction process facilitate the controlled fabrication of gold nanoparticle microstructures?"}
+{"query_id": "174539434903293441-s44", "query": "How does interference lithography facilitate the fabrication of large-area periodic nanostructures, and what are its key characteristics?"}
+{"query_id": "174539434903294984-s7", "query": "How do different channel configurations in droplet microfluidic platforms influence droplet formation?"}
+{"query_id": "174539434903298277-s8", "query": "What are the main types of microfluidic PCR devices, and how do they differ in their approaches to sample processing and thermal cycling?"}
+{"query_id": "174539434903306044-s15", "query": "What are the main features and analytical performance characteristics of electrochemical immunosensors developed for detecting hormones such as estradiol, testosterone, and ACTH?"}
+{"query_id": "174539434903327549-s3", "query": "Which immunochemical techniques utilize gel electrophoresis followed by immunoblotting to separate and detect food allergens?"}
+{"query_id": "174539434903328703-s15", "query": "What enzymatic and physical factors contribute to DNA degradation during sugar production processes?"}
+{"query_id": "174539434903328703-s6", "query": "How does heating during food processing impact the integrity of DNA and its detectability using PCR?"}
+{"query_id": "174539434903328921-s3", "query": "How are molecularly imprinted polymers (MIPs) synthesized and applied for the selective detection of Δ9-tetrahydrocannabinol (THC) and its metabolites in urine samples?"}
+{"query_id": "174539434903329852-s9", "query": "How does the pH of the mobile phase influence the chromatographic separation and ionization efficiency of bile acids?"}
+{"query_id": "174539434903851752-s1", "query": "What are the main chemical constituents of Ferula ferulaeoides, and in what characteristic forms do they occur?"}
+{"query_id": "174539434903851765-s7", "query": "How do tannin concentration and composition differ between the skins and seeds of Vitis vinifera and interspecific hybrid grape varieties?"}
+{"query_id": "174539434903852437-s2", "query": "How are physical and chemical gels of chitosan formed, and what roles do crosslinkers and electrostatic interactions play in their formation?"}
+{"query_id": "174539434903855414-s16", "query": "How do commercially available microfluidic devices and kits improve sperm preparation and analysis in Assisted Reproductive Technology (ART)?"}
+{"query_id": "174539434903859905-s20", "query": "How does infrared spectroscopy use breath biomarkers to detect prostate cancer, and what evidence supports its diagnostic accuracy?"}
+{"query_id": "174539435003853024-s8", "query": "How do different concentrations of retinoic acid impact osteoblast proliferation, gene expression, and bone mineralization?"}
+{"query_id": "174539435003856575-s3", "query": "How do esterification and hydrolysis reactions interact during bottle aging to influence the aroma and mouth-feel of wine?"}
+{"query_id": "174539435003856578-s5", "query": "How do chemical modification methods enhance the sorption capacity of fibrous plant materials for the removal of heavy metals?"}
+{"query_id": "174539435003857859-s8", "query": "How do the monosaccharide compositions vary among polysaccharides extracted from different Polygonatum species?"}
+{"query_id": "174539435004071303-s11", "query": "What unique properties of mesoporous carbon materials make them effective as electrocatalysts in fuel cells?"}
+{"query_id": "174539435004071303-s2", "query": "What are the main procedural differences between chemical and physical activation methods for preparing mesoporous carbon, and what advantages does each method offer?"}
+{"query_id": "174539435004072015-s3", "query": "How do various metal catalysts affect the yield and composition of products in catalytic fast pyrolysis?"}
+{"query_id": "174539435004072015-s8", "query": "How do microwave absorbents and catalysts affect heating efficiency and product selectivity in biomass microwave-assisted pyrolysis?"}
+{"query_id": "174539435004072111-s3", "query": "How is the water gas shift (WGS) reaction utilized and enhanced during gas conditioning to increase the H2/CO ratio for methanation?"}
+{"query_id": "174539435004072157-s27", "query": "How does microwave-assisted leaching compare with conventional and ultrasound methods in terms of molybdenum extraction efficiency and selectivity from spent HDS catalysts?"}
+{"query_id": "174539435004073051-s3", "query": "How do variations in chemical stability and bond dissociation energies influence reaction control in C1 chemistry?"}
+{"query_id": "174539435004074288-s11", "query": "How does the initial pH affect the types of free radicals generated and their influence on antibiotic degradation in UV/PMS or UV/PDS systems?"}
+{"query_id": "174539435004074835-s5", "query": "How do sodium methoxide and sodium hydroxide compare in terms of catalytic activity, yield, cost, and practical considerations for biodiesel production?"}
+{"query_id": "174539435004074885-s3", "query": "How are oxygen vacancies formed in ZnO, and what impact do they have on photocatalytic activity and band gap tuning?"}
+{"query_id": "174539435004075536-s1", "query": "What factors determine the selection and order of catalysts used in the transesterification of oils with different free fatty acid (FFA) contents in biodiesel production?"}
+{"query_id": "174539435004076882-s11", "query": "How does isopropanol act as a co-solvent in biodiesel synthesis, and what advantages does its use offer?"}
+{"query_id": "174539435004077769-s1", "query": "How does the autoxidation cycle using anthraquinone work to produce hydrogen peroxide on an industrial scale?"}
+{"query_id": "174539435004078210-s8", "query": "What are the environmental and functional limitations of using EDTA in Fenton-based soil remediation?"}
+{"query_id": "174539435004078795-s5", "query": "How does varying the H2/CO2 ratio affect the yield and selectivity of methane in CO2 methanation reactions?"}
+{"query_id": "174539435004079435-s21", "query": "How does the potassium content affect its promotional role and catalytic activity on various metal-based catalysts?"}
+{"query_id": "174539435004186531-s6", "query": "How does site-directed mutagenesis of enzyme binding pockets improve substrate specificity and catalytic performance in biocatalysts?"}
+{"query_id": "174539435004471632-s5", "query": "How does treatment with sodium hydroxide (NaOH) chemically alter the surface and cellulose structure of natural fibers?"}
+{"query_id": "174539435004472493-s22", "query": "How do three-dimensional graphene materials remove dyes and organic pollutants from wastewater?"}
+{"query_id": "174539435004472763-s10", "query": "How does three-dimensional Digital Image Correlation (3D DIC) leverage photogrammetry and triangulation principles to measure the deformation of objects?"}
+{"query_id": "174539435004473620-s2", "query": "How does increasing the fibre volume fraction affect the strength of a composite when microcracks are arrested by plastic deformation in the matrix?"}
+{"query_id": "174539435004473937-s5", "query": "How do different fiber pretreatment methods and fiber content affect the flexural strength of PLA biocomposites?"}
+{"query_id": "174539435004474289-s3", "query": "What factors influence the amount of energy transferred to the powder during mechanical milling?"}
+{"query_id": "174539435004474559-s51", "query": "How do cork agglomerate sandwich composites perform under low-velocity impact compared to other materials?"}
+{"query_id": "174539435004475054-s16", "query": "How are nanoclay-polyaniline nanocomposites synthesized and characterized to enhance heavy metal adsorption from aqueous solutions?"}
+{"query_id": "174539435004478569-s10", "query": "What fiber surface modification techniques are used to enhance the compatibility between natural fibers and polymer matrices in composites?"}
+{"query_id": "174539435004562319-s16", "query": "How do digital imaging techniques enhance the efficiency and accuracy of flaw detection in the monitoring of flexible composite materials?"}
+{"query_id": "174539435004611310-s3", "query": "How does Raman Spectroscopy differentiate between graphene and graphene nanoplatelets, and how is it used to assess their quality?"}
+{"query_id": "174539435004611310-s7", "query": "How is X-ray Diffraction (XRD) used to characterize graphene materials, and what are its limitations in detecting single graphene layers?"}
+{"query_id": "174539435004612210-s4", "query": "What are the main factors that reduce purity in citrate crystal production, and what methods can be employed to maintain high purity?"}
+{"query_id": "174539435004612210-s6", "query": "What are the key methodologies and parameters for controlling the crystal shape of calcium citrate to achieve spherical morphology in industrial crystallization?"}
+{"query_id": "174539435004613704-s12", "query": "How does increasing the aluminum content affect the corrosion resistance and electrochemical behavior of AlₓCrFeNi₃₋ₓ alloys?"}
+{"query_id": "174539435004615650-s12", "query": "How do vacancies, dislocations, and grain boundaries affect the mechanical properties of graphene?"}
+{"query_id": "174539435004616804-s11", "query": "How does the porosity of thick ZnO films enhance the sensitivity of gas sensors?"}
+{"query_id": "174539435004617804-s15", "query": "How does differential scanning calorimetry (DSC) thermal analysis help in characterizing phase transitions and assessing the stability of pharmaceutical cocrystals?"}
+{"query_id": "174539435004619091-s12", "query": "What are the main defects in MoS₂ that negatively impact device performance, and how do different synthesis methods influence the formation of these defects?"}
+{"query_id": "174539435004619091-s4", "query": "How does Titanium doping affect the electronic properties and semiconductor behavior of MoS₂ at different doping concentrations?"}
+{"query_id": "174539435004902273-s6", "query": "How do hydrophobic side chains introduced through copolymerization affect the structure and viscosity of polyacrylamide in aqueous solutions?"}
+{"query_id": "174539435004902913-s2", "query": "What are the primary mechanical limitations of PNIPAM hydrogels in drug delivery applications, and what causes these limitations?"}
+{"query_id": "174539435004903575-s3", "query": "How do natural and synthetic hydrogel dressings differ in terms of their polymer composition and structural characteristics?"}
+{"query_id": "174539435004904873-s5", "query": "What makes citric acid an effective crosslinking agent in hydrogel synthesis, and what are the underlying mechanisms involved?"}
+{"query_id": "174539435004905552-s16", "query": "What practical measures should be taken to prevent precipitation during the preparation and application of simulated body fluids (SBF)?"}
+{"query_id": "174539435004905981-s27", "query": "How do crosslink density and chemical structure together affect the swelling behavior of hydrogels used in tissue engineering?"}
+{"query_id": "174539435004905981-s38", "query": "What strategies have been employed to enhance the mechanical properties and biological performance of chitosan-based bio-inks?"}
+{"query_id": "174539435004906558-s7", "query": "How do hydrogels used as supercapacitor electrolytes maintain both conductivity and flexibility at subzero temperatures?"}
+{"query_id": "174539435004908186-s14", "query": "How do ethosomes improve the skin permeation of cosmeceutical agents compared to conventional liposomes?"}
+{"query_id": "174539435004909469-s16", "query": "How does incorporating liposomes into gels affect their drug delivery efficiency and therapeutic effectiveness in the treatment of skin cancer?"}
+{"query_id": "174539435004943751-s2", "query": "What are the advantages of using magnetic nanoparticles compared to conventional resins in immobilized metal affinity chromatography for protein purification?"}
+{"query_id": "174539435004946497-s8", "query": "How do the molecular structure and functional groups of silk fibroin influence its effectiveness in controlled drug delivery?"}
+{"query_id": "174539435004949544-s22", "query": "How do oxygen vacancies improve photocatalytic efficiency and charge transfer in heterostructured oxide systems?"}
+{"query_id": "174539435004972091-s15", "query": "How does chemical activation with sodium hydroxide improve the adsorption capacity of zeolite for biogas upgrading?"}
+{"query_id": "174539435004975125-s4", "query": "How do various chemical activation agents influence the surface area and pore volume of porous carbon derived from walnut shells?"}
+{"query_id": "174539435004975125-s5", "query": "How do chemical activation (CA) and physical activation (PA) enhance the porous structure and adsorption performance of biomass-derived activated carbon compared to direct pyrolysis?"}
+{"query_id": "174539435004981879-s14", "query": "What are the key properties and advantages of ZIF membranes that contribute to their effectiveness in gas separation applications?"}
+{"query_id": "174539435004982464-s6", "query": "What are the typical steps and conditions involved in the freeze-drying process of silica aerogels and their composites?"}
+{"query_id": "174539435005104854-s9", "query": "What mechanical damage mechanisms affect the active coating material of lithium-ion battery electrodes during cycling, and how do these mechanisms impact battery performance?"}
+{"query_id": "174539435106411065-s21", "query": "In what ways have geosynthetics enhanced the mechanical performance and long-term serviceability of railway ballast layers?"}
+{"query_id": "174539435106411478-s9", "query": "What are the key materials and techniques used to develop and enhance superhydrophobic anti-biofouling polymer coatings on steel surfaces?"}
+{"query_id": "174539435106412078-s4", "query": "How do composite coatings produced by electrophoretic deposition compare to single-material coatings in terms of mechanical properties and corrosion resistance?"}
+{"query_id": "174539435106412917-s9", "query": "How are matrix films and fiber mats arranged and processed in the Film Stacking technique for fabricating composite materials?"}
+{"query_id": "174539435106414224-s14", "query": "How do cyclic diols affect the thermal stability and degradation temperatures of FDCA-based polyesters?"}
+{"query_id": "174539435106415748-s3", "query": "How are bioplastics categorized in terms of their biodegradability and compostability, and what processes and standards define these categories?"}
+{"query_id": "174539435106417445-s2", "query": "How do carbon nanotubes improve the mechanical and rheological properties of hydrogels used in bioprinting applications?"}
+{"query_id": "174539435106418181-s12", "query": "How do various solvent treatments influence the chemical composition and mechanical properties of poly(vinyl acetate) paints?"}
+{"query_id": "174539435106419270-s22", "query": "How does the annealing temperature affect micropore formation, lamellar structure, and overall porosity in polyethylene (PE) hollow fiber membranes during the MSCS process?"}
+{"query_id": "174539435106419526-s7", "query": "How do the longitudinal tensile strength and modulus of unidirectional CFRP composites change as the temperature varies below, near, and above the glass transition temperature (Tg)?"}
+{"query_id": "174539435206413133-s8", "query": "How do membrane pore size and adsorption mechanisms affect the efficiency of UF and MF membranes in removing endocrine-disrupting compounds (EDCs)?"}
+{"query_id": "174539435206416174-s11", "query": "How does vacuum pressure aid in resin distribution and laminate consolidation during the vacuum infusion process?"}
+{"query_id": "174539435206419735-s15", "query": "How do the chemical corrosion resistance and bonding strength of basalt fiber surface coatings affect their design for practical applications?"}
+{"query_id": "174539435206496944-s13", "query": "How does FTIR spectroscopy detect and characterize the incremental chemical changes that occur during the degradation of microplastics?"}
+{"query_id": "174539435206591164-s13", "query": "How do starch nanoparticles affect the biodegradability of polymers through changes in moisture content and microbial activity?"}
+{"query_id": "174539435206591828-s15", "query": "What are the main environmental drawbacks of landfilling plastics, and how does this practice affect resource recovery and land use?"}
+{"query_id": "174539435206595510-s2", "query": "What are the chemical and physical mechanisms responsible for the degradation and thermal instability of polylactic acid (PLA)?"}
+{"query_id": "174539435206931337-s7", "query": "How do machine learning techniques enhance the design and manufacturability analysis phases in 3D printing workflows?"}
+{"query_id": "174539435206931517-s18", "query": "What are the key methodologies, datasets, and accuracy results reported in studies on online handwritten Devanagari character recognition?"}
+{"query_id": "174539435206933352-s14", "query": "What are some representative Chinese sentiment corpora, and how do they contribute to different sentiment analysis tasks?"}
+{"query_id": "174539435206933838-s18", "query": "How do separable and depth-wise convolutions help reduce the complexity of convolutional models, and what are the potential trade-offs involved in using these techniques?"}
+{"query_id": "174539435206934331-s8", "query": "How is the Markov Decision Process (MDP) formulated in the context of multi-agent reinforcement learning, and what are its main components?"}
+{"query_id": "174539435206935790-s4", "query": "How do word embedding techniques address the shortcomings of earlier high-dimensional semantic representations in natural language processing?"}
+{"query_id": "174539435206935811-s22", "query": "What are the most commonly used metrics for evaluating 6D object pose estimation, and how do these metrics account for symmetric versus non-symmetric objects?"}
+{"query_id": "174539435206936052-s5", "query": "What are some of the key variants of the SIFT algorithm that have been developed to improve its robustness, invariance, and computational efficiency?"}
+{"query_id": "174539435206936052-s8", "query": "How do modern matching algorithms efficiently establish correspondences between long baseline image features using feature descriptors and data structures?"}
+{"query_id": "174539435206937394-s12", "query": "How do projection-based post-processing methods detect and mitigate bias in word embeddings, and what are their main advantages and limitations?"}
+{"query_id": "174539435206937665-s11", "query": "What makes the log score unique as a local proper scoring rule, and what are the practical implications of this distinction for evaluating probabilistic predictions?"}
+{"query_id": "174539435206937665-s4", "query": "How is the quantile loss function defined, and what are the key properties that ensure its consistency for quantile prediction?"}
+{"query_id": "174539435206938293-s14", "query": "How is the optimal weight for a leaf and the corresponding objective function value determined in gradient boosting trees?"}
+{"query_id": "174539435308105876-s20", "query": "How do sintering temperature and heat treatment affect the porosity and mechanical properties of hydroxyapatite materials?"}
+{"query_id": "174539435308106055-s7", "query": "How does substituting zirconium in barium titanate ceramics affect their dielectric properties and phase transition behavior?"}
+{"query_id": "174539435308129679-s2", "query": "How does doping zirconia ceramics with yttria affect their phase stability and phase transition temperatures?"}
+{"query_id": "174539435308732382-s1", "query": "How do specific linguistic features of source texts affect human evaluations of machine translation quality?"}
+{"query_id": "174539435308735430-s3", "query": "How does the proposed faceted error taxonomy enhance error classification for diverse languages and annotation requirements?"}
+{"query_id": "174539435309375376-s9", "query": "What are the detailed steps involved in generating and adding a block to the blockchain after transactions have been validated?"}
+{"query_id": "174539435309377083-s3", "query": "What are the specific radiation pattern requirements and challenges for 5G antennas compared to those in previous generations like 3G and 4G?"}
+{"query_id": "174539435309378527-s13", "query": "How do iterative updates of centroids and recalculations of distances contribute to the convergence of the K-Means clustering algorithm?"}
+{"query_id": "174539435309846471-s15", "query": "How have CNN-based methods developed over time to enhance the accuracy of hand joint localization using both 2D and 3D input data?"}
+{"query_id": "174539435309852955-s9", "query": "How do ARMA and ARIMA models differ in their approach to handling stationarity in time series anomaly detection?"}
+{"query_id": "174539435410621318-s19", "query": "How are commercially available wearable devices classified, and what vital signs do they monitor for the purpose of detecting cardiovascular disease?"}
+{"query_id": "174539435410624071-s13", "query": "What characteristics of GaN-based gas sensors make them particularly well-suited for various Internet of Things (IoT) applications?"}
+{"query_id": "174539435410625005-s9", "query": "How does exposure to electron-donor gases influence the current in a p-type graphene FET sensor under different gate voltages, and what gate voltage conditions are recommended for practical measurements?"}
+{"query_id": "174539435410626618-s2", "query": "What are the key materials and structural features that define polymer nanocomposites used in stretchable smart electronics?"}
+{"query_id": "174539435410628382-s12", "query": "How do the structural characteristics of a cantilever piezoelectric energy harvester affect its mechanical behavior and energy output?"}
+{"query_id": "174539435410629596-s1", "query": "What are the key physical principles and material properties that underlie the operation of giant magnetoresistance (GMR) sensors?"}
+{"query_id": "174539435410629605-s2", "query": "How do dry textile electrodes enhance the effectiveness of long-term continuous ECG monitoring compared to traditional wet electrodes?"}
+{"query_id": "174539435410793711-s15", "query": "How do hardware and software measurement methods differ in evaluating total energy consumption versus software-specific energy consumption?"}
+{"query_id": "174539435410796774-s1", "query": "What are the fundamental components and operating principles that define the structure and function of double layer capacitors?"}
+{"query_id": "174539435410799156-s4", "query": "How are ECG sensors incorporated into smart shirts to facilitate real-time heart monitoring and data transmission in healthcare e-textile applications?"}
+{"query_id": "174539435511191591-s3", "query": "How does incorporating the inertia weight ω affect the velocity update equation and the movement of particles in Particle Swarm Optimization (PSO)?"}
+{"query_id": "174539435511436726-s26", "query": "How does the superpixel segmentation method work to group pixels and differentiate between noisy and noise-free areas in image restoration?"}
+{"query_id": "174539435511671606-s2", "query": "How does the economics-of-crime model account for the impact of audit probability and penalty rates on individual tax compliance?"}
+{"query_id": "174539435511671606-s4", "query": "What does the experimental evidence reveal about the impact of individual risk attitudes on tax evasion behavior in laboratory settings?"}
+{"query_id": "174539435511786112-s13", "query": "What measures are commonly used to assess the impact of stock market performance on corporate credit ratings?"}
+{"query_id": "174539435511787301-s6", "query": "How do IPO lock-up periods affect the credibility of earnings forecasts and the behavior of firm managers?"}
+{"query_id": "174539435511787301-s9", "query": "How do price declines around IPO lock-up expirations relate to trading costs, short selling activity, and market liquidity?"}
+{"query_id": "174539435512231110-s7", "query": "How do surface residual stresses interact with external cyclic stresses to affect the load and fatigue strength of machined parts?"}
+{"query_id": "174539435512233056-s11", "query": "What are the fundamental principles and step-by-step procedures involved in the laminated object manufacturing (LOM) technique?"}
+{"query_id": "174539435512233289-s12", "query": "How do air plasma spraying (APS) and high velocity oxy fuel (HVOF) thermal spraying techniques differ in producing NiAl coatings in terms of microstructure and porosity?"}
+{"query_id": "174539435512233312-s23", "query": "What advantages does laser cladding offer for rapid prototyping and part manufacturing compared to traditional methods?"}
+{"query_id": "174539435512236363-s2", "query": "How can image processing techniques be effectively applied to characterize tool wear?"}
+{"query_id": "174539435512238795-s7", "query": "What challenges arise when trying to determine the physical properties of materials during severe plastic deformation in friction drilling?"}
+{"query_id": "174539435612591752-s17", "query": "How do three-point bending tests demonstrate the differences in mechanical behavior between coated and noncoated nickel-titanium orthodontic archwires?"}
+{"query_id": "174539435612594539-s2", "query": "How do surface roughness and texture affect cellular behavior and bone integration on implant surfaces?"}
+{"query_id": "174539435612597540-s12", "query": "How does the age of concrete at the time of fire exposure affect its residual strength and recovery behavior?"}
+{"query_id": "174539435612598789-s12", "query": "How does the microwave-assisted hydrothermal method enhance the synthesis of hydroxyapatite compared to traditional hydrothermal techniques?"}
+{"query_id": "174539435612599150-s10", "query": "What does the term \"regain\" mean in the context of textiles, and how does it vary among different fibers with respect to humidity absorption?"}
+{"query_id": "174539435612599173-s5", "query": "What are the common strategies used to initiate covalent crosslinking in chemically crosslinked natural polymer hydrogels?"}
+{"query_id": "174539435612733192-s5", "query": "What are the main advantages and limitations of using inorganic salt-based phase change materials (PCMs) for high-temperature solar energy storage?"}
+{"query_id": "174539435612738512-s41", "query": "How does the transient technique simplify the experimental determination of heat transfer coefficients in convective systems?"}
+{"query_id": "174539435612747593-s14", "query": "How does the tribo-oxide layer form on Ti64 under high load and temperature, and what role does it play in enhancing the alloy's wear resistance?"}
+{"query_id": "174539435612747593-s17", "query": "How do the different microstructures of Ti-6Al-4V (Ti64) affect its wear resistance and wear mechanisms during sliding under various conditions?"}
+{"query_id": "174539435612747593-s3", "query": "How does thermal oxidation affect the surface structure and phase composition of Ti64 alloy, and what are the resulting impacts on its hardness and wear resistance?"}
+{"query_id": "174539435612747593-s9", "query": "How does temperature affect the formation of oxide layers on Ti64 alloy, and what role do these layers play in its tribological performance?"}
+{"query_id": "174539435612749992-s1", "query": "How do fillers improve the tribological and mechanical properties of polymer composite coatings compared to single polymer materials?"}
+{"query_id": "174539435612782596-s12", "query": "How does the microstructure of friction stir welded (FSW) joints compare to that of gas tungsten arc-assisted friction stir welded (GTA-FSW) joints?"}
+{"query_id": "174539435612782596-s5", "query": "How do specific welding parameters affect the mechanical properties, such as tensile strength and microhardness, in friction stir welded steels?"}
+{"query_id": "174539435613027769-s11", "query": "What is Minimum Quantity Lubrication (MQL), and how does it promote sustainable machining practices?"}
+{"query_id": "174539435613484936-s21", "query": "How does the efficiency of geocell reinforcement vary with the dimensions of the geocell and the types of reinforcing materials used?"}
+{"query_id": "174539435713604755-s22", "query": "Can you explain how the discrete cosine transform (DCT) technique is used for watermark embedding, including how coefficients are selected and the steps involved in the embedding process?"}
+{"query_id": "174539435713873644-s34", "query": "How do nanoparticles influence boiling heat transfer through their effects on surface roughness and nucleation sites?"}
+{"query_id": "174539435713904770-s28", "query": "How does the diameter of metal wires affect discharge intensity, and what are the limitations of this effect?"}
+{"query_id": "174539435714011388-s4", "query": "How does Integrated Full Electrical Propulsion (IFEP) enhance fuel efficiency and operational performance in marine vessels?"}
+{"query_id": "174539435714012840-s7", "query": "What are the main discretization methods used for 1D beam models of wind turbine blades, and how do they compare in terms of accuracy and computational cost?"}
+{"query_id": "174539435714015506-s6", "query": "What are some key examples of halophilic bacteria capable of degrading hydrocarbons under different saline conditions, and what are their main degradation mechanisms?"}
+{"query_id": "174539435714016391-s14", "query": "How do fiber reinforced polymer (FRP) repairing systems protect and reinforce concrete underwater structures in marine environments?"}
+{"query_id": "174539435714016391-s16", "query": "What techniques have been studied to effectively bond reinforcing materials to wooden marine pillars during repair?"}
+{"query_id": "174539435714017536-s26", "query": "How have artificial seaweed reefs been designed and managed in Japan’s subtidal zones to promote seaweed succession?"}
+{"query_id": "174539435714017536-s28", "query": "What are the primary marine forest projects currently being conducted in South Korea, and what are their main objectives?"}
+{"query_id": "174539435714018836-s4", "query": "In what ways do corallivorous fish facilitate the transmission and spread of coral diseases?"}
+{"query_id": "174539435714018863-s7", "query": "How have bibliometric methods been utilized to evaluate research impact and identify trends in maritime safety and emergency management?"}
+{"query_id": "174539435815402873-s9", "query": "How does combining LiDAR with multispectral and aerial imagery enhance the accuracy of urban tree classification?"}
+{"query_id": "174539435815402997-s25", "query": "How is continuous-wave vector network analyzer (CW-VNA) spectroscopy used to monitor plant water status non-invasively, and what experimental protocols demonstrate its effectiveness?"}
+{"query_id": "174539435815404153-s10", "query": "How does incorporating contextual neighborhood information and texture features enhance the accuracy of pixel-based landcover classification?"}
+{"query_id": "174539435816829957-s2", "query": "How do the concentration and viscosity of an electrospinning solution affect the stability of the jet and the resulting morphology of nanofibers?"}
+{"query_id": "174539435816837866-s13", "query": "How are regenerated silk fibroin (rSF) solutions produced from raw silk fibroin, and what factors influence their properties?"}
+{"query_id": "174539435917472840-s36", "query": "What are the key findings regarding the adsorption capacity and mechanisms of peat moss for copper and nickel ions under different experimental conditions?"}
+{"query_id": "174539435917547206-s15", "query": "How effective are microbial bioleaching processes in recovering gold from crushed waste printed circuit boards (PCBs)?"}
+{"query_id": "174539435917586453-s15", "query": "How do nitrate additions, alone or in combination with Bacillus firmus, influence the degradation of polyaromatic hydrocarbons (PAHs) under anaerobic soil conditions?"}
+{"query_id": "174539435917892250-s3", "query": "How do varying blood concentrations of methamphetamine affect driving performance and the associated risks?"}
+{"query_id": "174539435917895045-s14", "query": "What effects does supported accommodation have on reincarceration rates and the time until reincarceration?"}
+{"query_id": "174539435917897304-s11", "query": "What challenges are encountered in enrolling and retaining cocaine-dependent patients in randomized controlled trials evaluating acupuncture treatment?"}
+{"query_id": "174539435917947726-s3", "query": "How does ketamine administration affect brain activation during the processing of different emotional facial expressions?"}
+{"query_id": "174539435917956837-s14", "query": "What socio-demographic factors are associated with an increased risk of alcohol use disorder in patients with tuberculosis?"}
+{"query_id": "174539435918236700-s11", "query": "What measures should be taken to ensure patient safety regarding toxic metals in complementary healthcare products?"}
+{"query_id": "174539435918238869-s36", "query": "How have clinical trials evaluated the effects of Glycyrrhiza uralensis and Paeonia lactiflora on serum testosterone levels in women with PCOS?"}
+{"query_id": "174539436018301505-s2", "query": "Which chemical compounds and classes have been identified in Cocculus hirsutus through phytochemical screenings and GC-MS analysis?"}
+{"query_id": "174539436018302680-s13", "query": "What are the traditional medicinal uses and known chemical compositions of the leaves and aerial parts of the Himalayan aromatic plants Nees (Lauraceae) and Eryngium foetidum?"}
+{"query_id": "174539436018387286-s3", "query": "How does curcumin contribute to reducing the risk of heart failure and protecting cardiac function on a mechanistic level?"}
+{"query_id": "174539436018388423-s15", "query": "How effective is acupuncture in reducing pain for advanced cancer patients when assessed using different pain measurement tools?"}
+{"query_id": "174539436018503118-s32", "query": "How should obese patients be monitored and managed in the post-anesthesia care unit (PACU) to minimize the risk of respiratory complications?"}
+{"query_id": "174539436018583301-s4", "query": "What evidence supports the association between neuraxial analgesia and an increased risk of instrumental vaginal delivery, and what explanations have been proposed for this relationship?"}
+{"query_id": "174539436019122987-s1", "query": "How do the different structural components of the periodontium work together to support and protect teeth from damage and microbial infection?"}
+{"query_id": "174539436019126949-s2", "query": "What are the three primary concerns to consider when making return-to-play decisions after sports-related concussions, and how do their severities and outcomes differ?"}
+{"query_id": "174539436119451050-s10", "query": "How do studies describe the relationship between the frequency of family meals and adolescent marijuana and illicit drug use, and are there any differences between genders?"}
+{"query_id": "174539436119486593-s6", "query": "How do the duration and patterns of depressive and polarity symptoms differ between adults with bipolar I and bipolar II disorders?"}
+{"query_id": "174539436119488609-s18", "query": "How do within-person and between-person interpersonal factors differentially relate to suicidal behaviors in intensive longitudinal studies?"}
+{"query_id": "174539436119719306-s4", "query": "How do the antioxidant effects of allium oils compare with vitamin E in reducing nicotine-induced lipid peroxidation in rats?"}
+{"query_id": "174539436119935816-s9", "query": "What retention strategies have health services providing PrEP utilized according to the included studies?"}
+{"query_id": "174539436119943118-s4", "query": "What are the key antibacterial agents that specifically inhibit Streptococcus mutans, and what additional functions or target spectra do these agents possess?"}
+{"query_id": "174539436119949986-s9", "query": "In what ways does traditional livestock farming influence the transmission and persistence of arboviral diseases in Mauritania?"}
+{"query_id": "174539436120034116-s6", "query": "How does the presentation and recognition of lung involvement in CMV pneumonia differ between immunocompromised and immunocompetent critically ill patients?"}
+{"query_id": "174539436220218068-s8", "query": "What are the documented effects of peroxide-based tooth-whitening agents on oral mucosal cells and tissue inflammation?"}
+{"query_id": "174539436220341192-s2", "query": "What are the main methodological challenges in assessing the efficacy of systemic antimicrobials for the treatment of periodontitis?"}
+{"query_id": "174539436220342628-s13", "query": "What are the characteristics of charcoal particles in oral hygiene products, and what potential risks do they pose in terms of enamel abrasivity and tooth wear?"}
+{"query_id": "174539436220392342-s5", "query": "Which pro-inflammatory cytokines are elevated in the brain tissues of Alzheimer’s disease patients due to periodontal pathogens, and what are the associated neurodegenerative effects?"}
+{"query_id": "174539436220392496-s3", "query": "What are the typical clinical features observed in Buccal Bifurcation Cyst (BBC) cases affecting molars?"}
+{"query_id": "174539436220393265-s15", "query": "Which natural compounds with anti-inflammatory and antimicrobial properties have been studied in herbal mouthwashes for controlling biofilm in orthodontic patients?"}
+{"query_id": "174539436220393265-s18", "query": "What effects do chlorhexidine and herbal mouthwashes have on gingival inflammation in orthodontic patients with fixed appliances?"}
+{"query_id": "174539436220394277-s12", "query": "How is the healing of recurrent aphthous stomatitis (RAS) ulcers evaluated, and what is the quality of evidence regarding the use of topical propolis for their treatment?"}
+{"query_id": "174539436220394860-s13", "query": "What strategies are recommended to prevent relapse after repositioning the first permanent molar, and what are the necessary follow-up protocols?"}
+{"query_id": "174539436220396322-s14", "query": "How do existing studies characterize the relationship between mouth breathing, tongue thrust, and atypical swallowing in children?"}
+{"query_id": "174539436220396998-s14", "query": "What surgical techniques or modifications are employed in lip-repositioning surgery to reduce relapse rates and enhance long-term stability?"}
+{"query_id": "174539436220451346-s6", "query": "How effective is minoxidil in halting the progression of frontal fibrosing alopecia according to clinical studies and case reports?"}
+{"query_id": "174539436220458921-s23", "query": "What clinical outcomes and adverse effects have been reported in studies evaluating fractional CO₂ laser treatment for idiopathic guttate hypomelanosis (IGH)?"}
+{"query_id": "174539436220551939-s21", "query": "How do rice fermentation products affect collagen-related mechanisms to promote anti-aging effects?"}
+{"query_id": "174539436220602725-s1", "query": "How have feeding behaviors been systematically categorized and documented in research on feeding and nutrient intake among children with autism?"}
+{"query_id": "174539436220608654-s12", "query": "How do stimulus complexity and emotional valence influence auditory and visual change detection in individuals with autism?"}
+{"query_id": "174539436320714646-s11", "query": "How does the Verbal Behavior Milestones Assessment and Placement Program (VB-MAPP) evaluate language and related skills, and what are its psychometric strengths and limitations?"}
+{"query_id": "174539436320935411-s1", "query": "How do weight-related factors after pregnancy affect the risk of developing type 2 diabetes in women who previously had gestational diabetes?"}
+{"query_id": "174539436320991892-s16", "query": "What clinical and demographic factors related to diabetes influence the risk of developing peripheral artery disease in individuals with type 2 diabetes?"}
+{"query_id": "174539436320999464-s11", "query": "How does extended treatment with exenatide affect lipid profiles, and which patient factors influence these effects?"}
+{"query_id": "174539436320999464-s13", "query": "How do rates of hypoglycemic events with exenatide and insulin compare between clinical trials and real-world clinical practice?"}
+{"query_id": "174539436320999464-s4", "query": "What evidence supports the effects of adding exenatide to basal insulin on glycemic control and body weight in patients with type 2 diabetes mellitus (T2DM)?"}
+{"query_id": "174539436320999536-s3", "query": "How do clinical indicators such as diabetic retinopathy and the duration of diabetes help differentiate diabetic kidney disease (DKD) from nondiabetic kidney disease (NDKD) in patients with type 2 diabetes mellitus?"}
+{"query_id": "174539436321051770-s4", "query": "How do disruptions in iron homeostasis contribute to endothelial dysfunction and vascular remodeling in pulmonary hypertension?"}
+{"query_id": "174539436321054242-s14", "query": "How does early goal-directed therapy (EGDT) impact mortality compared to usual care based on the findings of the enrolled studies?"}
+{"query_id": "174539436321055607-s7", "query": "What are the benefits of initiating noninvasive ventilation early in the emergency department for patients with acute exacerbations of COPD or cardiogenic pulmonary edema?"}
+{"query_id": "174539436321138644-s1", "query": "How does the immature haemostatic system in young infants influence their coagulation factor levels and bleeding risk?"}
+{"query_id": "174539436321139525-s17", "query": "What outcome measures have been used to assess and compare airway patency between lateral and supine positions in unconscious trauma patients?"}
+{"query_id": "174539436321292663-s8", "query": "What do studies reveal about the accuracy and diagnostic value of the Mandibular Cortical Index (MCI) when assessing markedly eroded mandibular cortex for detecting osteoporosis and low bone mineral density?"}
+{"query_id": "174539436321317620-s5", "query": "How is familial tall stature defined, and what are the typical patterns of growth observed in affected children during childhood and puberty?"}
+{"query_id": "174539436321337270-s5", "query": "How does the incidence of SARS-CoV-2 positivity vary according to different vitamin D levels in a large US cohort?"}
+{"query_id": "174539436421487463-s3", "query": "How do specific genetic mutations in Neisseria gonorrhoeae contribute to varying levels of resistance to azithromycin?"}
+{"query_id": "174539436421775259-s13", "query": "What trends have been observed in transaminase levels among primary biliary cholangitis patients treated with combination therapy compared to monotherapy, and which of these changes are statistically significant?"}
+{"query_id": "174539436421779906-s11", "query": "What are the recommended treatment options for managing significant hemorrhage following an endoscopic sphincterotomy?"}
+{"query_id": "174539436522335478-s13", "query": "How do clinical trials and timing of administration affect the effectiveness of tranexamic acid in reducing mortality and morbidity in postpartum hemorrhage?"}
+{"query_id": "174539436522361757-s21", "query": "Why is it important to understand the physical properties of tubal fluid when modeling fertilization and sperm movement?"}
+{"query_id": "174539436522361757-s23", "query": "How do the ultrastructure and peristaltic motion of the fallopian tube work together to create an optimal environment for fertilization and early embryo development?"}
+{"query_id": "174539436522367080-s26", "query": "What does current evidence suggest about the relationship between various degrees of perineal laceration and the risk of postpartum stress urinary incontinence?"}
+{"query_id": "174539436522367080-s6", "query": "How strong and reliable is the evidence that advanced maternal age at gestation increases the risk of postpartum stress urinary incontinence?"}
+{"query_id": "174539436522367081-s11", "query": "How do folate levels affect clinical pregnancy and live birth rates in women undergoing assisted reproductive techniques?"}
+{"query_id": "174539436522367081-s8", "query": "How do geographic region and folic acid fortification policies affect serum or plasma folate concentrations in women undergoing assisted reproductive technology (ART)?"}
+{"query_id": "174539436522367505-s1", "query": "How does maternal undernutrition during pregnancy and lactation impact ovarian function and oxidative stress in the offspring?"}
+{"query_id": "174539436522367505-s2", "query": "How does oxidative stress contribute to reproductive damage in females?"}
+{"query_id": "174539436522368276-s6", "query": "What do current studies report about the associations between assisted reproductive techniques (ART) and specific subtypes of congenital heart diseases (CHDs)?"}
+{"query_id": "174539436522368443-s12", "query": "What evidence exists linking maternal occupational exposure to organic solvents with specific birth defects and increased risks?"}
+{"query_id": "174539436522368443-s17", "query": "How does in utero exposure to Diethylstilbestrol (DES) illustrate the concept of fetal origins of adult diseases?"}
+{"query_id": "174539436622919743-s12", "query": "How do different warfarin self-care strategies compare in terms of their effectiveness for improving the time patients spend in the therapeutic INR range (TTR), and what is the quality of the evidence supporting these comparisons?"}
+{"query_id": "174539436622986321-s2", "query": "What are the recommended diagnostic steps and challenges in identifying type 1 and type 2 von Willebrand Disease during pregnancy?"}
+{"query_id": "174539436623009160-s6", "query": "How do clinical studies assess the analgesic efficacy and safety profile of tramadol in the treatment of cancer pain?"}
+{"query_id": "174539436724001733-s12", "query": "Which vitamins have been identified in various marine macroalgae species, and how does vitamin content differ among different types of algae?"}
+{"query_id": "174539436724097207-s0", "query": "How do Sinomenine preparations compare to NSAIDs in terms of efficacy and safety for the treatment of rheumatoid arthritis?"}
+{"query_id": "174539436724468380-s19", "query": "How does hybrid surgery help in reducing adjacent segment disease while preserving motion in the cervical spine, and what evidence is there regarding differences in segmental range of motion compared to anterior cervical discectomy and fusion (ACDF)?"}
+{"query_id": "174539436724602854-s11", "query": "What does the current evidence indicate about the effectiveness and accuracy of 99mTc-tilmanocept for sentinel lymph node mapping in patients with head and neck cancer?"}
+{"query_id": "174539436724624983-s4", "query": "What evidence supports the accuracy of PET/CT in tumor volume delineation and its impact on treatment planning and prognosis in head and neck cancer?"}
+{"query_id": "174539436724625004-s15", "query": "How does antibody-based immunodiagnosis detect viral infections, and which assays are commonly used for this purpose?"}
+{"query_id": "174539436724625172-s1", "query": "How does the incidence of pediatric thyroid cancer vary by age, gender, and geographic region?"}
+{"query_id": "174539436724625172-s8", "query": "How do molecular alterations in pediatric papillary thyroid carcinoma vary with age, and what is their impact on the clinical presentation and prognosis?"}
+{"query_id": "174539436724625669-s6", "query": "What are the prevalence rates and variability of lung abnormalities observed on chest CT scans within 1 to 6 months following recovery from COVID-19?"}
+{"query_id": "174539436724625865-s17", "query": "What specific complications have been reported during marker implantation for radioactive seed localization and wire-guided localization in breast surgery?"}
+{"query_id": "174539436724625865-s19", "query": "What are the common complications associated with radioactive seed localization and wire-guided localization techniques in breast lesion surgery?"}
+{"query_id": "174539436724628814-s2", "query": "What are the limitations of relying solely on imaging features when diagnosing synovial sarcoma?"}
+{"query_id": "174539436724628918-s10", "query": "How does the O-arm CT enhance real-time navigation during bronchoscopy procedures, and what impact does it have on diagnostic yield?"}
+{"query_id": "174539436724676606-s11", "query": "How do overall survival rates change from 1 to 10 years after carbon ion radiotherapy for different types of bone sarcomas?"}
+{"query_id": "174539436825002578-s15", "query": "How does increasing the level of calcium fortification affect calcium intake according to randomized controlled trials?"}
+{"query_id": "174539436825008199-s8", "query": "How does adherence to the Western dietary pattern affect the risk of prostate cancer?"}
+{"query_id": "174539436825286621-s16", "query": "What does the existing body of research reveal about the impact of weight-cycling on lean body mass?"}
+{"query_id": "174539436925473461-s19", "query": "How does sensitivity analysis help clarify the relationship between specific upregulated miRNAs and thyroid cancer recurrence?"}
+{"query_id": "174539436925477535-s10", "query": "How does betel nut consumption influence the incidence and outcomes of oral cavity cancer in Micronesian populations?"}
+{"query_id": "174539436925661811-s3", "query": "Which cell types have been identified as components of vitreomacular traction (VMT), and how have recent studies refined our understanding of its cellular composition?"}
+{"query_id": "174539436925667845-s6", "query": "How do timing and patient selection influence the efficacy and safety of thrombolysis treatments in acute central retinal artery occlusion (CRAO)?"}
+{"query_id": "174539436925667860-s5", "query": "How do vitamins E and C function as antioxidants in the retina, and what is their impact on lipofuscin accumulation in retinal pigment epithelium (RPE) cells?"}
+{"query_id": "174539436925694672-s4", "query": "How have electrical stimulation methods been utilized to assess the feasibility and function of retinal implants in rabbit models?"}
+{"query_id": "174539436925695976-s6", "query": "What clinical evidence supports the use of pars plana vitrectomy combined with dexamethasone implant in patients with refractory diabetic macular edema?"}
+{"query_id": "174539436925697431-s0", "query": "What are the current clinical criteria and recommended evaluations for diagnosing meibomian gland dysfunction (MGD) associated with dry eye disease?"}
+{"query_id": "174539436925697566-s22", "query": "What are the comparative advantages and challenges of endothelial keratoplasty versus penetrating keratoplasty in pediatric patients?"}
+{"query_id": "174539436925699187-s15", "query": "How do the ocular surface parameters OSDI, BUT, and SCFS change and recover over time following pterygium surgery?"}
+{"query_id": "174539436925761376-s1", "query": "What are the main complications and clinical benefits of epithelium-off versus transepithelial methods in corneal cross-linking?"}
+{"query_id": "174539436925762796-s2", "query": "How do different bromfenac treatment regimens influence postoperative ocular symptoms and patient comfort following refractive eye surgeries?"}
+{"query_id": "174539436925763223-s4", "query": "How do different intraoperative dyes compare in terms of their effectiveness and safety for internal limiting membrane (ILM) peeling during macular hole (MH) surgery?"}
+{"query_id": "174539436925764050-s18", "query": "What criteria and methods are commonly used to exclude or replace invalid light measurement data in myopia research studies?"}
+{"query_id": "174539437026047202-s13", "query": "How do postoperative complication rates compare between the direct anterior approach (DAA) and the posterior approach (PA) in primary total hip arthroplasty?"}
+{"query_id": "174539437026178092-s9", "query": "How do minimally invasive spine surgery (MIS) approaches balance their initially higher costs with potential improvements in long-term cost-effectiveness?"}
+{"query_id": "174539437026245270-s9", "query": "What initial clinical evidence supports the use of photodynamic therapy for treating cancer and precancerous lesions of the larynx?"}
+{"query_id": "174539437026381343-s6", "query": "What conservative treatment options have been studied for managing drop attacks in Ménière’s disease, and what have been the observed outcomes?"}
+{"query_id": "174539437026493359-s19", "query": "How do mutations in the SCN9A gene affect the development and variability of pain disorders?"}
+{"query_id": "174539437026543513-s15", "query": "What non-pharmacological approaches have shown promise in managing pain associated with platinum-induced peripheral neuropathies?"}
+{"query_id": "174539437126885151-s10", "query": "How does routine prefeed gastric aspiration affect nutritional intake, intestinal health, and the risk of infection in preterm infants?"}
+{"query_id": "174539437126893909-s8", "query": "What genitourinary complications are associated with Klippel–Trenaunay Syndrome, and which patients are predominantly affected?"}
+{"query_id": "174539437126894338-s11", "query": "How do burosumab and conventional therapies compare in their effects on the prevalence and incidence of dental abscesses in children over different follow-up periods?"}
+{"query_id": "174539437126894608-s14", "query": "What are the key imaging features and clinical indicators that help diagnose yolk sac tumors in young patients?"}
+{"query_id": "174539437126894776-s4", "query": "What are the essential components of the initial clinical evaluation and patient history when assessing adolescents suspected of having endometriosis?"}
+{"query_id": "174539437126895154-s4", "query": "What are the key findings on the prevalence of MTHFR polymorphisms in children and adolescents with acute myeloid leukemia (AML) compared to healthy controls?"}
+{"query_id": "174539437126895261-s21", "query": "What evidence is available on the use of steroidal therapy in pediatric spinal cord injury patients, and what are its limitations?"}
+{"query_id": "174539437126896449-s6", "query": "How have observational studies supported the efficacy and safety of fenfluramine in treating photosensitive and self-induced seizures in children?"}
+{"query_id": "174539437126898724-s5", "query": "What are the key findings on the incidence and types of associated injuries in pediatric patients with radial neck fractures?"}
+{"query_id": "174539437126981069-s0", "query": "How do changes in the FMR1 gene result in the molecular and clinical features observed in Fragile X Syndrome?"}
+{"query_id": "174539437127062999-s11", "query": "How does variation in pH affect drug release mechanisms and profiles in hydrogel-based delivery systems?"}
+{"query_id": "174539437127112074-s9", "query": "How do the types and severity of treatment-related adverse events compare between patients receiving netupitant/palonosetron and those receiving aprepitant plus palonosetron during repeated chemotherapy cycles?"}
+{"query_id": "174539437127213700-s25", "query": "Why is it difficult to fully restore the size of the semitendinosus and gracilis muscles after their tendons are harvested for ACL reconstruction?"}
+{"query_id": "174539437127217669-s17", "query": "What impact do sedentary behaviour interventions have on standing time at work, and how do heterogeneity and publication bias affect these findings?"}
+{"query_id": "174539437227861593-s5", "query": "How do clinical studies assess the effectiveness of buprenorphine in reducing the duration of treatment for neonatal opioid withdrawal syndrome (NOWS)?"}
+{"query_id": "174539437227873539-s2", "query": "What impact does vaginal washing before intravaginal prostaglandin insertion have on labor progression and related clinical outcomes?"}
+{"query_id": "174539437227886855-s18", "query": "How do the characteristics of breast tissue differ between abrupt and gradual involution following breastfeeding?"}
+{"query_id": "174539437228227001-s12", "query": "How are prodrome definitions categorized, and what are the main characteristics of each category?"}
+{"query_id": "174539437228228735-s14", "query": "What evidence supports targeting AMPA receptors to improve cognitive deficits in schizophrenia?"}
+{"query_id": "174539437228263061-s8", "query": "What are the recommended procedures and common challenges in cross-validating regression models for predicting mental health care costs?"}
+{"query_id": "174539437228263482-s15", "query": "How does the number of previous antipsychotic trials influence patient response to clozapine and hospitalization outcomes after starting clozapine treatment?"}
+{"query_id": "174539437228263555-s3", "query": "How does carrying one or two copies of the apo E4 allele affect the risk and age of onset of late-onset Alzheimer’s disease?"}
+{"query_id": "174539437228264340-s8", "query": "How do different definitions of depression cases affect the reported odds ratios and heterogeneity in studies of Gulf War veterans?"}
+{"query_id": "174539437228264423-s1", "query": "What key methodological criteria are essential to ensure the quality and comparability of studies estimating the prevalence of depression among hospital inpatients?"}
+{"query_id": "174539437228264803-s15", "query": "How do different spectral qualities of lamps affect the efficacy of light therapy in treating Seasonal Affective Disorder (SAD)?"}
+{"query_id": "174539437228265105-s12", "query": "Why does the low base rate of completed suicide in ultra-high risk (UHR) groups make it difficult to reliably estimate long-term suicide prevalence?"}
+{"query_id": "174539437228265257-s3", "query": "What do case-control studies reveal about the association between childhood sexual and physical abuse and chronic fatigue syndrome (CFS)?"}
+{"query_id": "174539437228265800-s13", "query": "How does the prevalence of psychotic symptoms in bipolar disorder differ among inpatient, outpatient, and depressive episode settings?"}
+{"query_id": "174539437328282572-s5", "query": "What are the main socio-economic factors influencing hazardous drinking patterns among Māori?"}
+{"query_id": "174539437328324396-s8", "query": "What are the limitations of the current evidence regarding mirtazapine’s impact on the risk of suicide and suicide attempts?"}
+{"query_id": "174539437328482237-s19", "query": "How do mindfulness-based programs compare to psychoeducation or inactive controls in reducing self-reported anxiety symptoms, and what do the effect sizes and heterogeneity data indicate?"}
+{"query_id": "174539437328482460-s7", "query": "How have experimental studies shown the effects of mindfulness meditation on susceptibility to false memories?"}
+{"query_id": "174539437328484022-s1", "query": "How do examples of situational procrastination demonstrate its domain-specific nature and its variability across different areas of life?"}
+{"query_id": "174539437328484183-s7", "query": "How does social exclusion impact employees’ psychological needs and influence their intention to leave an organization?"}
+{"query_id": "174539437328486905-s7", "query": "How do the PEN and Five-Factor personality models characterize the relationship between celebrity worship and personality traits, and in what ways do their findings differ?"}
+{"query_id": "174539437328489040-s16", "query": "How do the Wagnild and Young Resilience Scales define and measure resilience, and what challenges related to resilience do students commonly face?"}
+{"query_id": "174539437328489605-s9", "query": "How does discursive psychology conceptualize stance expressions and analyze them in language use?"}
+{"query_id": "174539437328489928-s10", "query": "How have studies characterized the effects of electroconvulsive therapy (ECT) on specific negative symptoms in schizophrenia, and what predictors of treatment response have been identified?"}
+{"query_id": "174539437328594152-s19", "query": "How does aggressiveness differ between adolescents who have attempted suicide once and those who have made multiple suicide attempts, according to meta-analytic evidence?"}
+{"query_id": "174539437328596105-s16", "query": "How do increasing doses of antidepressants impact both the risk of dropout due to adverse effects and treatment response in pediatric patients with major depressive disorder (MDD)?"}
+{"query_id": "174539437328597891-s13", "query": "What criteria and methods have been used to evaluate the implementation of mental health literacy interventions for female adolescents?"}
+{"query_id": "174539437328598115-s11", "query": "What evidence exists regarding the effects of early parental stimulation interventions on motor development in premature infants?"}
+{"query_id": "174539437328598837-s10", "query": "How do deficiencies in different stages of social information processing help distinguish reactive from proactive aggression in children?"}
+{"query_id": "174539437428865624-s15", "query": "How do long-chain polyunsaturated fatty acids biochemically affect inflammation and asthma symptoms?"}
+{"query_id": "174539437428952210-s9", "query": "How do the reported prevalence rates of bacterial pneumonia and multidrug resistance vary across different Ethiopian regions based on the included studies?"}
+{"query_id": "174539437428959598-s0", "query": "How does the latest evidence compare the efficacy and safety of long-acting beta-agonists (LABA) and long-acting muscarinic antagonists (LAMA) as initial treatments for stable COPD?"}
+{"query_id": "174539437429443778-s3", "query": "What is the relationship between BRCA-1 mutations, ovarian function, and breast cancer risk in women with infertility?"}
+{"query_id": "174539437429449292-s3", "query": "How does plasma prorenin vary throughout the normal menstrual cycle, and what hormonal mechanisms underlie these fluctuations?"}
+{"query_id": "174539437429495028-s4", "query": "How do the tissue chopper and microdissection methods impact the structural integrity and viability of bovine preantral follicles during isolation?"}
+{"query_id": "174539437429693280-s11", "query": "What evidence supports the anti-inflammatory and cartilage-protective effects of chondroitin sulfate and glucosamine sulfate in the treatment of osteoarthritis?"}
+{"query_id": "174539437429693280-s5", "query": "What have randomized controlled trials revealed about the effectiveness of IL-1 inhibitors in alleviating pain and inflammation in knee osteoarthritis patients with synovitis?"}
+{"query_id": "174539437429693280-s6", "query": "How do NSAIDs influence inflammatory markers and joint structure in patients with osteoarthritis based on findings from clinical trials?"}
+{"query_id": "174539437429693301-s16", "query": "What risk factors should clinicians consider before starting JAK inhibitors in patients with refractory rheumatoid arthritis?"}
+{"query_id": "174539437429693301-s5", "query": "How does the risk of venous thromboembolism change over time after a diagnosis of rheumatoid arthritis and subsequent hospitalization?"}
+{"query_id": "174539437429694639-s3", "query": "How do anti-B2M antibodies influence immune cell functions, and what role might these effects play in the pathology of systemic lupus erythematosus (SLE)?"}
+{"query_id": "174539437429695161-s6", "query": "In which clinical situations is magnetic resonance imaging (MRI) particularly useful for the evaluation of carpal tunnel syndrome?"}
+{"query_id": "174539437429696699-s1", "query": "What are the main benefits of unicompartmental knee arthroplasty compared to total knee arthroplasty with respect to anatomical preservation and postoperative recovery?"}
+{"query_id": "174539437429696699-s3", "query": "How do limb alignment and prosthesis positioning affect the long-term survivorship and failure mechanisms of unicompartmental knee arthroplasty?"}
+{"query_id": "174539437429698728-s7", "query": "How is anxiety related to different components of the DAS28 score and to subjective versus objective measures of disease activity in rheumatoid arthritis?"}
+{"query_id": "174539437529785978-s7", "query": "How do cannabinoids affect inflammation, pain, and joint changes in animal models of chronic inflammatory arthritis?"}
+{"query_id": "174539437530145197-s0", "query": "What are the common causes and clinical consequences of laryngo-tracheal compression and recurrent laryngeal nerve infiltration in thyroid disease emergencies?"}
+{"query_id": "174539437530236380-s2", "query": "How does the diversity of Fusarium species and their toxin production complicate breeding for effective resistance to Fusarium Head Blight (FHB)?"}
+{"query_id": "174539437530256000-s3", "query": "What are the clinical consequences of impaired antioxidant enzyme activity and elevated levels of reactive oxygen and nitrogen species (ROS/RNS) in patients with MASLD?"}
+{"query_id": "174539437530447327-s4", "query": "What complications and clinical outcomes differentiate post-allogeneic hematopoietic cell transplantation (HCT) patients who develop hemophagocytic lymphohistiocytosis (HLH) from those who do not?"}
+{"query_id": "174539437530666997-s21", "query": "What are the advantages and limitations of using carbon monoxide and carbon monoxide-releasing molecules as adjunctive therapies in experimental cerebral malaria?"}
+{"query_id": "174539437630752695-s3", "query": "How do temperature variations specifically affect the duration and success of Fasciola egg development?"}
+{"query_id": "174539437630752695-s4", "query": "How do temperature fluctuations and light conditions together influence the hatching success of Fasciola eggs?"}
+{"query_id": "174539437630758876-s6", "query": "What are the key steps and important considerations for assessing the purity, quantity, and integrity of nucleic acids during sample preparation for next-generation sequencing (NGS) of trematode parasites?"}
+{"query_id": "174539437630759707-s1", "query": "How are Hematodinium species classified taxonomically, and what morphological and genetic characteristics are used for their identification?"}
+{"query_id": "174539437630759707-s2", "query": "What are the primary developmental stages and transitions in the Hematodinium life cycle, as observed both in vivo and in vitro?"}
+{"query_id": "174539437630791507-s1", "query": "How do the Th1 and Th2 subsets of CD4+ T cells and their cytokines differentially regulate immune responses against gastrointestinal nematodes?"}
+{"query_id": "174539437630791687-s9", "query": "How do the assumptions of superinfection and coinfection frameworks differ, and what are the resulting implications for the evolution of virulence?"}
+{"query_id": "174539437630792405-s10", "query": "How do the metabolic responses of freshwater fish hosts vary depending on the load and species of parasitic freshwater mussels infesting them?"}
+{"query_id": "174539437630792405-s7", "query": "How do soft and hard adaptive immunity differ in their mechanisms and effects on parasitic larvae in fish hosts?"}
+{"query_id": "174539437630794061-s0", "query": "What are the causative agents of animal trypanosomiases, how are these diseases transmitted, what is the host range, and what are their economic impacts?"}
+{"query_id": "174539437630931442-s8", "query": "How do the initial and final clinical success rates compare between escalating voltage and fixed voltage shockwave lithotripsy?"}
+{"query_id": "174539437630941532-s0", "query": "What are the conflicting findings from meta-analyses regarding sex-specific progression of chronic kidney disease (CKD) in hypertensive patients?"}
+{"query_id": "174539437630944739-s3", "query": "How does activation of the complement system contribute to renal fibrosis and the progression from acute kidney injury to chronic kidney disease?"}
+{"query_id": "174539437631041242-s0", "query": "How do adverse cardiovascular outcomes after PCI compare between insulin-treated and non-insulin treated patients with Type 2 Diabetes Mellitus according to different studies?"}
+{"query_id": "174539437631158606-s5", "query": "What effects have been observed on blood pressure in single-blinded trials evaluating Transcendental Meditation, progressive muscle relaxation, and relaxation-assisted biofeedback?"}
+{"query_id": "174539437631174980-s5", "query": "What are the specific relationships between different types of social support and health risks in women who have experienced cardiovascular events?"}
+{"query_id": "174539437631187921-s1", "query": "What are the limitations of ambulatory blood pressure monitoring (ABPM) devices in accurately measuring nocturnal blood pressure, and how do they affect sleep quality?"}
+{"query_id": "174539437631199243-s10", "query": "How do seizure rates and median seizure events per patient year compare between levetiracetam and other antiseizure medications across different patient subgroups?"}
+{"query_id": "174539437631202301-s13", "query": "How is straw used as enrichment in agricultural animal studies, and what effects does it have on animal behavior and farmer perceptions?"}
+{"query_id": "174539437631202558-s4", "query": "How do saponins biologically reduce enteric methane emissions through their effects on rumen microorganisms?"}
+{"query_id": "174539437631202711-s11", "query": "How does mixing unfamiliar pigs influence their aggressive behavior and related health risks in intensive farming systems?"}
+{"query_id": "174539437631202774-s7", "query": "How does the size of a flock affect behavioral synchronization and spatial clustering in commercial pullets?"}
+{"query_id": "174539437631202968-s6", "query": "How do different mycotoxins differ in their absorption rates and their specific effects on the gastrointestinal tract of broiler chickens?"}
+{"query_id": "174539437631203119-s6", "query": "How do the concentration and structural characteristics of condensed tannins in plants affect their antiparasitic effectiveness against nematodes?"}
+{"query_id": "174539437631203338-s14", "query": "What are the effects of dietary supplementation with fulvic acids on growth performance, backfat thickness, and oxidative stress in pigs?"}
+{"query_id": "174539437631204798-s5", "query": "How do specific morphological traits contribute to thermotolerance and heat adaptation in different livestock breeds?"}
+{"query_id": "174539437631204798-s8", "query": "How do variations in HSP 70 expression influence thermotolerance and cellular survival among different sheep breeds?"}
+{"query_id": "174539437631206573-s7", "query": "What evidence supports the effectiveness and long-term sustainability of genetic selection for resistance to gastrointestinal nematode parasites in sheep?"}
+{"query_id": "174539437631379952-s6", "query": "What are the typical patterns and consequences when cattle consume palatable neurotoxic plants such as tall larkspur?"}
+{"query_id": "174539437733121188-s3", "query": "How does explicit instruction in textual and interpersonal metadiscourse types affect the reading comprehension of Iranian EFL learners?"}
+{"query_id": "174539437734083405-s2", "query": "How does the interactional sociolinguistic approach explain the role of contextualization cues in bilingual classroom interactions?"}
+{"query_id": "174539437734088175-s28", "query": "How have research studies between 2013 and 2017 explored vocabulary size and lexical demands in New Zealand educational settings?"}
+{"query_id": "174539437734088346-s3", "query": "How does the wording of word-target goals affect students’ motivation and reading achievement in extensive reading programs?"}
+{"query_id": "174539437734089301-s24", "query": "In what ways has WhatsApp been employed to facilitate dialect awareness training among pre-service English language teachers, and how has this impacted their attitudes toward different English varieties?"}
+{"query_id": "174539437834083292-s21", "query": "How do comprehension-based and production-based instruction compare in promoting the acquisition of plurals and adjectives among young Japanese learners?"}
+{"query_id": "174539437834087063-s18", "query": "How are pluricentric varieties of English selected and represented in the teaching of English in Indonesia?"}
+{"query_id": "174539437834087779-s7", "query": "What effect do explicit recasts combined with additional error signals have on learner uptake in second language classrooms?"}
+{"query_id": "174539437834087785-s16", "query": "How is dynamic assessment utilized in second language (L2) Spanish education, and what advantages does it have over traditional assessment methods?"}
+{"query_id": "174539437834087785-s17", "query": "How do studies distinguish between heritage Spanish learners and foreign language learners in their acquisition of complex grammatical features?"}
+{"query_id": "174539437834087785-s18", "query": "How do sociolinguistic factors and age of arrival affect the development of Spanish language proficiency in immigrant children?"}
+{"query_id": "174539437834414037-s7", "query": "How do gender labels influence the frequency and type of toy use in interaction studies with infants?"}
+{"query_id": "174539437834414409-s3", "query": "How does Block’s model explain the integration of biological, cultural, and cognitive factors in the development of sex roles?"}
+{"query_id": "174539437835008350-s10", "query": "How does combining repetition training with retrieval practice improve second language vocabulary learning according to the RHM-RER framework?"}
+{"query_id": "174539437835008350-s11", "query": "How do different spacing schedules impact immediate and delayed learning outcomes in second language (L2) vocabulary acquisition?"}
+{"query_id": "174539437835008350-s13", "query": "How does elaborative processing distinguish sentence-composing from definition and example matching in L2 vocabulary training?"}
+{"query_id": "174539437835008350-s17", "query": "How do synonym generation tasks influence recall during early second language vocabulary learning, and what reasons explain their negative effects?"}
+{"query_id": "174539437835008350-s9", "query": "How does the effectiveness of repetition training in adult second language vocabulary learning vary according to learner proficiency and the characteristics of the words being learned?"}
+{"query_id": "174539437835008491-s4", "query": "How do phonemic and prosodic features of European-accented English affect the evaluative judgments made by American listeners?"}
+{"query_id": "174539437835049178-s16", "query": "How do morphological cues affect the presence or neutralization of the subject advantage in relative clauses of ergative languages?"}
+{"query_id": "174539437835049178-s17", "query": "How do existing studies describe the interaction between subject preference and morphological or grammatical factors in the processing of ergative relative clauses?"}
+{"query_id": "174539437835049178-s22", "query": "What methods are commonly used to elicit production data for studying relative clauses, and what are the advantages and limitations of these methods?"}
+{"query_id": "174539437835049178-s4", "query": "How do syntactic embedding depth and the presence of intervening elements affect the processing difficulty difference between subject and object relative clauses?"}
+{"query_id": "174539437835049178-s5", "query": "How do canonicity effects impact children’s comprehension errors in object relative clauses?"}
+{"query_id": "174539437835129146-s1", "query": "How are pronunciation learning strategies characterized in terms of awareness, intentionality, and whether their actions are observable or not?"}
+{"query_id": "174539437835129146-s2", "query": "What challenges do learners’ attitudes and awareness pose for accurately collecting data on pronunciation learning strategies?"}
+{"query_id": "174539437835151927-s25", "query": "How do different verbal explanation response formats influence the effect sizes observed in studies of metaphor comprehension in individuals with ASD?"}
+{"query_id": "174539437835164790-s12", "query": "What are the defining characteristics of schizophasia and what types of paraphasia are commonly observed within it?"}
+{"query_id": "174539437835164790-s18", "query": "How does the proposed analytic package enhance the descriptive analysis of psychotic speech by integrating context and conversation analysis?"}
+{"query_id": "174539437835165566-s1", "query": "What is the difference between sign translucency and iconicity in American Sign Language (ASL), and what does the evidence suggest about their relative prevalence in ASL signs?"}
+{"query_id": "174539437835165566-s5", "query": "How do cheremic and phonological similarities impact interference and difficulty in learning sign language lexicons?"}
+{"query_id": "174539437835166522-s4", "query": "What evidence challenges the commonly held view that young children acquire the concept of sequence before they understand simultaneity in temporal reasoning?"}
+{"query_id": "174539437835166522-s7", "query": "How do conjunctions such as \"when,\" \"before,\" and \"after\" interact with syntax, semantics, and order of mention in expressing concepts of simultaneity and sequence?"}
+{"query_id": "174539437835169882-s1", "query": "Which conceptual model explains the dynamic and enduring factors influencing second language learners’ Willingness to Communicate (WTC)?"}
+{"query_id": "174539437835215681-s0", "query": "In what ways do the early Aymara grammars compiled by missionaries continue to influence contemporary usage and linguistic descriptions of the language?"}
+{"query_id": "174539437836202518-s4", "query": "What are the key features of the Intercultural Development Inventory (IDI) and how is it practically used to assess cultural adjustment in missionaries?"}
+{"query_id": "174539437836207197-s15", "query": "How are social axioms defined in cross-cultural belief studies, and how do they differ from values and normative beliefs?"}
+{"query_id": "174539437936811162-s11", "query": "How do calcium ions regulate cellular processes that contribute to the development of fruit translucency?"}
+{"query_id": "174539437936816144-s16", "query": "How do the environmental conditions in southern China affect the quality traits of rice?"}
+{"query_id": "174539437936819244-s6", "query": "How do the surface functional groups formed during biochar pyrolysis affect the adsorption of metal ions and the immobilization of heavy metals in soils?"}
+{"query_id": "174539437936871188-s9", "query": "How do varying concentrations and incubation periods of propiconazole affect the dynamics and recovery of soil microbial communities?"}
+{"query_id": "174539437936876446-s5", "query": "How does spray-induced gene silencing (SIGS) use exogenous RNAs to control pests and pathogens in plants?"}
+{"query_id": "174539437936879530-s2", "query": "What are the steps involved in preparing soil samples to ensure clear microscopic images and the desired texture for analysis?"}
+{"query_id": "174539437936961075-s2", "query": "How does increased salinity affect soil microbial populations and their ability to fix nitrogen?"}
+{"query_id": "174539437936961299-s15", "query": "What ultrastructural changes are typically observed in chloroplasts of plants exposed to excess metals?"}
+{"query_id": "174539437936961706-s10", "query": "How do different types of fillers influence the water vapor permeability of biodegradable mulch films?"}
+{"query_id": "174539437936961865-s6", "query": "How does nitrogen uptake by tree roots in agroforestry intercropping systems help reduce subsoil nitrogen leaching?"}
+{"query_id": "174539437936962000-s2", "query": "How are different types of annual crop mixtures classified based on their morphological and phenological heterogeneity?"}
+{"query_id": "174539437936962924-s26", "query": "What are the main reasons why corridors often fail to enhance seed dispersal for plant species in farmland environments?"}
+{"query_id": "174539437936963516-s10", "query": "How do sorption processes and sediment characteristics together affect phosphorus retention in ditches?"}
+{"query_id": "174539437936964475-s6", "query": "How does the choice of cowpea variety influence yield outcomes in millet-cowpea intercropping systems, particularly with respect to the cowpea’s growth duration?"}
+{"query_id": "174539437936966066-s9", "query": "How do nitrous oxide (N₂O) emissions from anaerobic digestates compare to those from undigested feedstock, and what explanations and evidence support these differences?"}
+{"query_id": "174539437936967184-s1", "query": "What are the key features of agroecosystem models that make them suitable for simulating spatial and temporal crop diversification at the field scale?"}
+{"query_id": "174539437936967904-s6", "query": "How does anaerobic digestion affect the dry matter concentration and particle size distribution in animal slurry?"}
+{"query_id": "174539437936968051-s14", "query": "How does soil compaction influence crop yield through its effects on root and shoot development?"}
+{"query_id": "174539437936969078-s11", "query": "What are the challenges and limitations of using herbicide-treated crops with target-site resistance to manage parasitic weeds in legumes?"}
+{"query_id": "174539437936972785-s6", "query": "Which types of explants have been used to induce somatic embryogenesis in pomegranate, and how do these explants differ from each other?"}
+{"query_id": "174539437937234094-s10", "query": "What are the main obstacles and biochemical factors that limit the effectiveness of IgY in controlling diarrhea in swine?"}
+{"query_id": "174539437937236759-s15", "query": "How do the size and morphology of ZnO nanoparticles affect their toxicity and clearance in animals?"}
+{"query_id": "174539437937237295-s5", "query": "How does supplementing sow lactation diets with lipids affect farrowing and culling rates?"}
+{"query_id": "174539437937306687-s6", "query": "What are the two overlapping immune mechanisms by which ruminants reject incoming trichostrongylid larvae, and how are these mechanisms characterized?"}
+{"query_id": "174539437937306688-s8", "query": "What effects do soy oligosaccharides have on intestinal physiology and microbial activity when included in weaning piglet diets?"}
+{"query_id": "174539437937309495-s2", "query": "How can the timing of insemination be optimized in buffaloes based on the detection of oestrus signs to improve fertility?"}
+{"query_id": "174539437937479026-s31", "query": "How do benchmark datasets like WeatherBench facilitate standardized evaluation and comparison of machine learning-based weather models?"}
+{"query_id": "174539437937522275-s6", "query": "How do multi-stage scrubbers enhance the removal efficiency of particulate matter and airborne bacteria in livestock housing?"}
+{"query_id": "174539437937525974-s6", "query": "How do emissions from agricultural machinery in China compare to those from road vehicles during the peak agricultural season?"}
+{"query_id": "174539437937622374-s3", "query": "How does paraquat’s redox cycling mechanism underlie both its herbicidal action and its toxicity in mammals?"}
+{"query_id": "174539437937625747-s7", "query": "How do anthocyanins exert their antioxidant effects through free radical elimination, enhancement of enzyme activity, and reduction of peroxidation damage?"}
+{"query_id": "174539437937946068-s5", "query": "How do the genetic diversity patterns of Phoenix canariensis vary among the Canary Islands, and what factors contribute to these differences?"}
+{"query_id": "174539438037955313-s17", "query": "How do changes in leaf reflectance in the red, near-infrared (NIR), and short-wave infrared (SWIR) spectral bands explain the decrease in vegetation indices observed in winter wheat under frost stress?"}
+{"query_id": "174539438037962033-s9", "query": "What are the key factors that influence the success of target-specific PCR when detecting rare species in environmental samples?"}
+{"query_id": "174539438038483830-s16", "query": "How are ionic liquids used to pretreat cellulose-containing lignocellulosic materials, and what typical yields are obtained from such pretreatments?"}
+{"query_id": "174539438038634984-s5", "query": "How do bird banding and fecal analysis enhance the efficiency and breadth of studies investigating microplastic ingestion in terrestrial birds?"}
+{"query_id": "174539438038637652-s2", "query": "How do structural size and fat mass separately affect the interpretation of body mass as an indicator of condition in birds?"}
+{"query_id": "174539438038822139-s9", "query": "How do the elemental and mineral compositions differ among the roots, stems, fruits, and leaves of Corchorus tridens L., and what do these variations imply for the plant's physiological functions?"}
+{"query_id": "174539438038822382-s5", "query": "How do temperature and precipitation gradients influence spatial variations in phenology across the Tibetan Plateau?"}
+{"query_id": "174539438038822770-s1", "query": "How do the chemical components of tea tree oil contribute to its antimicrobial effects in the treatment of acne?"}
+{"query_id": "174539438038822770-s6", "query": "What are the primary chemical constituents of Origanum vulgare essential oil, and how do they contribute to its therapeutic effects in skin treatment?"}
+{"query_id": "174539438038823506-s4", "query": "How are photosynthetic pigment concentrations and nitrogen content in plants related to various spectral reflectance and color model parameters?"}
+{"query_id": "174539438038823506-s8", "query": "What are some commonly used RGB-based indices for estimating plant traits such as SPAD and grain yield, and how are they mathematically formulated?"}
+{"query_id": "174539438038823586-s15", "query": "What cardiovascular effects have been observed in animal studies using various Passiflora extracts, and which compounds are thought to be responsible for these effects?"}
+{"query_id": "174539438038824577-s2", "query": "How does co-planting Ricinus communis with legumes like Medicago sativa affect its growth and heavy metal uptake in soils contaminated with cadmium (Cd) and zinc (Zn)?"}
+{"query_id": "174539438038826478-s2", "query": "How do the polyphenolic compounds and D-chiro-inositol found in Tartary buckwheat bran contribute to its health benefits?"}
+{"query_id": "174539438039013398-s17", "query": "How do Th17 cells develop, and what role do they play in inflammation and osteoclast activation in rheumatoid arthritis?"}
+{"query_id": "174539438039018593-s11", "query": "How do immunohistochemical markers indicate neuroprotection and neuroregeneration following treatments for spinal cord injury?"}
+{"query_id": "174539438039518782-s8", "query": "How do fixed-wing and rotary-wing unmanned aerial systems (UAS) differ in their flight capabilities and suitability for landscape ecology research missions?"}
+{"query_id": "174539438039653511-s5", "query": "How does tunnel excavation affect groundwater flow and lead to swelling in clay-sulfate rocks?"}
+{"query_id": "174539438039692879-s1", "query": "How do the content and composition of green (clay-bonded) foundry sands compare with chemically bonded foundry sands, including the typical proportions of their key components?"}
+{"query_id": "174539438039695248-s5", "query": "What are effective strategies for managing the wide range of particle sizes encountered in geological grain size measurements using image analysis?"}
+{"query_id": "174539438039695248-s8", "query": "What are the common computational methods used to measure orientation in geological image analysis?"}
+{"query_id": "174539438039695922-s2", "query": "How does the degree of soil compaction affect soil strength and frost damage after freeze-thaw cycles?"}
+{"query_id": "174539438039698070-s16", "query": "How are specific surface area and liquid limit experimentally correlated to enhance predictions of saturated hydraulic conductivity in plastic soils?"}
+{"query_id": "174539438139873525-s8", "query": "How does salinity influence electricity generation and microbial activity in constructed wetland microbial fuel cells?"}
+{"query_id": "174539438139877780-s18", "query": "How do magnetic separation techniques aid in recovering vivianite from phosphorus-rich sludge in wastewater treatment processes?"}
+{"query_id": "174539438139972976-s7", "query": "How do elevated sulfate concentrations affect the growth and distribution of toxic P. parvum blooms in inland waters of the United States?"}
+{"query_id": "174539438139973955-s10", "query": "What makes ground walnut shells an effective and renewable choice as deep-bed filter media for removing oil from water?"}
+{"query_id": "174539438139974516-s5", "query": "How does pH affect the surface charge of activated carbon and, in turn, influence the efficiency of arsenic adsorption?"}
+{"query_id": "174539438139974831-s3", "query": "How does artificial aeration improve nitrification and the overall nitrogen removal efficiency in constructed wetlands?"}
+{"query_id": "174539438139974868-s6", "query": "How do green roofs help reduce peak water flow and flooding risks during heavy rainfall in urban areas?"}
+{"query_id": "174539438139975610-s3", "query": "How do hydrophobicity and the reduction of aboveground biomass each affect runoff and soil erosion following wildfires?"}
+{"query_id": "174539438139975738-s10", "query": "How do isotope dating results help reveal the stability and disturbance history of sediment cores from Lake Okeechobee?"}
+{"query_id": "174539438139976961-s2", "query": "How are surface ice, middle ice, and bottom ice differentiated in terms of their composition, impurity content, and ecological functions in seasonally ice-covered lakes?"}
+{"query_id": "174539438139977139-s7", "query": "How does the development and cumulative storage capacity of small reservoirs compare to large dams in the Volta Basin, and what impacts do they have on the basin's water storage and streamflow?"}
+{"query_id": "174539438139977322-s19", "query": "How do coagulant type, dosage, selenium species, pH, and the water matrix interact to affect the efficiency of selenium removal during coagulation?"}
+{"query_id": "174539438139977413-s9", "query": "How do microwave treatments improve the extraction of heavy metal ions from wastewater sludge, and how does this enhance the efficiency of wastewater treatment?"}
+{"query_id": "174539438139979018-s1", "query": "What are the three primary ice-driven erosional processes that affect riverbanks along the Susitna River, and how do they contribute to bank erosion?"}
+{"query_id": "174539438139984545-s3", "query": "How do variations in soil phosphate levels impact the development of crop diseases and inform management strategies?"}
+{"query_id": "174539438139987582-s5", "query": "How do different pH levels affect the types and structures of U(VI) surface complexes formed on silica?"}
+{"query_id": "174539438140413010-s5", "query": "How can the mean growing season temperature be used to project future climatic treeline positions at global and regional scales?"}
+{"query_id": "174539438140498733-s5", "query": "How can measurements of elemental composition and mass loss be used to predict the decay resistance of heat-treated wood?"}
+{"query_id": "174539438140612118-s7", "query": "How do different modifiers affect the flotation behavior of magnesium carbonates, particularly in terms of pH control, interaction with collectors, and overall mineral recovery?"}
+{"query_id": "174539438140615315-s4", "query": "What are froth flow modifiers, and how do they affect froth mobility in flotation cells?"}
+{"query_id": "174539438140615329-s6", "query": "How do hydroxyapatite-clay composites adsorb fluoride ions, and what challenges are associated with changes in water pH during this process?"}
+{"query_id": "174539438140616378-s3", "query": "How do leaching test results from different countries support the conclusion that heavy metals in coal fly ash are environmentally safe?"}
+{"query_id": "174539438140616378-s4", "query": "How do microwave curing and additives such as nanosilica and metakaolin improve the strength and durability of CFA cement?"}
+{"query_id": "174539438140618083-s10", "query": "How do coal ashes chemically and functionally contribute to cement and concrete production, and what are their benefits and processing challenges?"}
+{"query_id": "174539438140618225-s4", "query": "What are the main chemical and mineral components of coal gangue, and how do their concentrations typically vary?"}
+{"query_id": "174539438140618225-s9", "query": "How does calcination chemically transform kaolinite in coal gangue, and what are the subsequent phase changes observed as the temperature increases?"}
+{"query_id": "174539438140618907-s11", "query": "How do the costs and characteristics of household and community arsenic filtration systems compare when using the same adsorbent?"}
+{"query_id": "174539438140619013-s11", "query": "How does the addition of granite waste affect mullite formation, porosity, and the mechanical properties of porcelain tiles?"}
+{"query_id": "174539438140619357-s3", "query": "How have recent technological modifications in pyrometallurgical furnaces enhanced both energy efficiency and product recovery?"}
+{"query_id": "174539438140619681-s44", "query": "How does particle shape affect the entrainment behavior of minerals during flotation, considering the influence of particle size and density?"}
+{"query_id": "174539438241023288-s23", "query": "Which recent R packages and graphical tools are suitable for teaching hydrological modeling to students who have limited programming experience?"}
+{"query_id": "174539438241133526-s14", "query": "How do nanofiltration membranes enhance the efficiency of wastewater treatment in industrial settings?"}
+{"query_id": "174539438241471173-s5", "query": "What are the main types of equipment used to clean flue gas in municipal solid waste incineration (MSWI), and how does each type work to remove pollutants?"}
+{"query_id": "174539438241471400-s19", "query": "How does scenario analysis use multiple assumptions to assess the environmental impacts of PVC chemical recycling?"}
+{"query_id": "174539438241471676-s10", "query": "How do different strains of Chlorella vulgaris perform in terms of growth and pollutant capture when cultivated using coke oven exhaust gases?"}
+{"query_id": "174539438241472027-s6", "query": "How do word clouds effectively highlight key terms related to the aesthetic value of World Heritage karst sites?"}
+{"query_id": "174539438241472926-s12", "query": "How do consumers' attitudes toward new technology affect their willingness to adopt improved cookstoves?"}
+{"query_id": "174539438241472968-s11", "query": "How does the Grey Model effectively handle limited or incomplete data when forecasting carbon dioxide emissions?"}
+{"query_id": "174539438241473576-s10", "query": "How do acidic post-treatments enhance methane production from sludge-based digestate, and what mechanisms and factors influence their effectiveness?"}
+{"query_id": "174539438241474035-s15", "query": "How is the autoregressive moving average (ARMA) model used both independently and in combination with other methods for forecasting solar photovoltaic (PV) power?"}
+{"query_id": "174539438241474436-s12", "query": "How do the material indicator method and the accurate calculation method compare when evaluating energy consumption and environmental impact?"}
+{"query_id": "174539438241475126-s13", "query": "Why is it important to establish a legal obligation and standardized methodology for greenhouse gas (GHG) emissions reporting in German hospitals?"}
+{"query_id": "174539438241475126-s2", "query": "How do greenhouse gas (GHG) emissions reporting rates vary among different hospital ownership types in Germany?"}
+{"query_id": "174539438241475791-s20", "query": "What types of input data are needed to accurately estimate carbon stocks in agricultural and forestry management scenarios using spatial decision support tools?"}
+{"query_id": "174539438241475933-s15", "query": "In what ways have Chinese investments transformed the capacity and strategic importance of the Port of Piraeus in regional logistics?"}
+{"query_id": "174539438241476324-s20", "query": "How does the layered IoT architecture facilitate energy monitoring and improve efficiency in building environments?"}
+{"query_id": "174539438241477534-s14", "query": "How do sulphate soundness test results affect the assessment of recycled aggregates' suitability for use in unbound pavement applications?"}
+{"query_id": "174539438241477842-s7", "query": "How have EU directives developed over time to regulate energy efficiency labeling and information for household and energy-related products?"}
+{"query_id": "174539438241478155-s7", "query": "How does Carroll define the four types of corporate social responsibility, and how are these responsibilities implemented in business practices?"}
+{"query_id": "174539438241478419-s6", "query": "What are the main challenges that impede the effective management of perishable food cold-supply chains?"}
+{"query_id": "174539438241479216-s10", "query": "How do household assets like land size and livestock holdings affect access to rural credit and the amounts borrowed in Vietnam?"}
+{"query_id": "174539438341474532-s19", "query": "What assessment tools and methods have been used in individual studies to evaluate waste segregation awareness and performance among healthcare workers?"}
+{"query_id": "174539438341706015-s6", "query": "How do nutrient-rich deep ocean waters enhance macroalgal growth, and what experimental evidence supports their effectiveness?"}
+{"query_id": "174539438341748463-s6", "query": "Why is it important to study blooming scyphomedusae species in greater detail from ecological and biological perspectives?"}
+{"query_id": "174539438341758887-s6", "query": "How does principal component analysis (PCA) help distinguish size-related variation from true morphological differences when identifying fish stocks?"}
+{"query_id": "174539438341853533-s6", "query": "How does biological pretreatment selectively degrade lignin while preserving cellulose in lignocellulosic biomass?"}
+{"query_id": "174539438341857784-s11", "query": "How do temperature and pH specifically affect the stability, activity, and effectiveness of bacteriophages in food matrices?"}
+{"query_id": "174539438341859098-s10", "query": "What evidence supports the idea that the method of delivery can influence the prevention of vertical HTLV-1 transmission?"}
+{"query_id": "174539438341874103-s1", "query": "What are the essential factors and methods for effectively controlling temperature and moisture during the production of Monascus-fermented rice?"}
+{"query_id": "174539438341874103-s3", "query": "How does the moisture content of the substrate affect pigment and monacolin K production during Monascus-fermented rice solid-state fermentation?"}
+{"query_id": "174539438341874103-s5", "query": "What role do monacolins play pharmacologically in the management of hyperlipidemia and cholesterol levels?"}
+{"query_id": "174539438341875894-s4", "query": "What unique challenges do insect cell characteristics present in the design of bioreactors for suspension culture?"}
+{"query_id": "174539438341879836-s5", "query": "What yeast-related factors affect the concentrations of higher alcohols during wine fermentation, and how do they influence the expression of varietal aromas?"}
+{"query_id": "174539438342094131-s5", "query": "Beyond its role in activating CDK4/6, how does cyclin D1 regulate transcription to influence cell cycle progression?"}
+{"query_id": "174539438342201057-s6", "query": "How do the type of yeast and fermentation conditions influence the reduction of ZEA levels during bread-making?"}
+{"query_id": "174539438342201142-s10", "query": "What do antifungal susceptibility tests reveal about the resistance and sensitivity patterns of Trichoderma species to various antifungal agents?"}
+{"query_id": "174539438342201142-s11", "query": "What are the commonly used antifungal treatments, including combination therapies, for infections caused by Trichoderma spp. in clinical practice?"}
+{"query_id": "174539438342206445-s11", "query": "How is chromoblastomycosis diagnosed and treated in Africa, and what are the recent advances and outcomes of treatment?"}
+{"query_id": "174539438342286746-s7", "query": "What evidence supports the importance of studying Candida spp virulence factors independently of host immune responses in understanding their role in infection?"}
+{"query_id": "174539438443451821-s6", "query": "How does near infrared reflectance spectroscopy enhance phosphorus efficiency screening in wheat breeding programs?"}
+{"query_id": "174539438443522761-s3", "query": "How do charcoal amendments enhance nutrient retention and reduce nutrient leaching in highly weathered tropical soils?"}
+{"query_id": "174539438443882793-s9", "query": "How are flexible loads modeled in demand response programs to optimize energy consumption and reduce consumer charges?"}
+{"query_id": "174539438443887011-s6", "query": "What types of scour protection methods have been developed for jacket foundations, and how effective are they in preventing erosion?"}
+{"query_id": "174539438443888610-s12", "query": "How has the total cost of ownership (TCO) for hydrogen buses changed from 2015 to 2035, and what are the main factors influencing this trend?"}
+{"query_id": "174539438443889854-s1", "query": "What physical factors primarily determine the power density of ocean waves available for energy harvesting?"}
+{"query_id": "174539438444011337-s5", "query": "Which bioactive compounds derived from mushrooms have been found to target HIV reverse transcriptase, and how effective are they compared to standard anti-HIV drugs?"}
+{"query_id": "174539438444016933-s18", "query": "How do the spike (S) and haemagglutinin-esterase (HE) glycoproteins cooperate to mediate sialic acid interactions in coronaviruses, and what variations exist in their functions and receptor specificities among different coronavirus strains?"}
+{"query_id": "174539438444017724-s3", "query": "What pregnancy and neonatal outcomes have been reported following remdesivir treatment in pregnant women with COVID-19?"}
+{"query_id": "174539438444017724-s4", "query": "What are the pregnancy and neonatal outcomes observed in hospitalized pregnant women with COVID-19 who received remdesivir treatment?"}
+{"query_id": "174539438444021582-s11", "query": "What does current research reveal about the safety and potential risks of HEV239 vaccination during pregnancy?"}
+{"query_id": "174539438444021667-s5", "query": "Which specific adverse events have been shown to increase significantly when vaccines are co-administered compared to when they are given separately?"}
+{"query_id": "174539438444025387-s15", "query": "How reliable is healthcare workers' recall of their personal medical history in accurately determining their varicella-zoster virus (VZV) serostatus, based on available diagnostic performance metrics?"}
+{"query_id": "174539438444025387-s19", "query": "How do low varicella-zoster virus (VZV) vaccination rates in the general population impact occupational health risks for healthcare workers?"}
+{"query_id": "174539438444025809-s24", "query": "What reasons do parents in Saudi Arabia give for delaying or missing childhood vaccinations?"}
+{"query_id": "174539438544205592-s6", "query": "What are the two main methods for producing printable consumables in wood-plastic composite additive manufacturing, and how do they differ in terms of process and flexibility?"}
+{"query_id": "174539438544224589-s69", "query": "What are the common types and mechanisms of advanced oxidation processes (AOPs) used for treating wastewater from pulp and paper mills?"}
+{"query_id": "174539438544225826-s10", "query": "How do wet disc milling and hammer milling differ in their mechanisms and effects on the structure of lignocellulosic fibers?"}
+{"query_id": "174539438544229699-s9", "query": "How does Chop Value upcycle bamboo chopsticks into functional interior products, and what specific processes do they employ in this transformation?"}
+{"query_id": "174539438544235806-s6", "query": "How does the glass transition temperature of lignin, in relation to other wood components, affect wood softening during veneer manufacturing?"}
+{"query_id": "174539438544761346-s17", "query": "How is the Dynamic Time Warping (DTW) algorithm formally defined, including its key constraints and the method used to find the optimal alignment between two sequences?"}
+{"query_id": "174539438544768082-s15", "query": "What are the key linguistic resources needed to develop an effective Gujarati Automatic Speech Recognition (ASR) system, and what roles do they play?"}
+{"query_id": "174539438544769848-s3", "query": "How do adaptation techniques in HMM-based speech synthesis facilitate the creation of expressive models when training data is limited?"}
+{"query_id": "174539438544769848-s9", "query": "How are simulated and spontaneous expressive speech data collected, and how are they used in expressive speech synthesis?"}
+{"query_id": "174539438545084809-s3", "query": "What causes the variations in ionization rates throughout the stratosphere with respect to geomagnetic latitude and solar activity?"}
+{"query_id": "174539438646301936-s13", "query": "What evidence supports that mixed-fuel combustion synthesis leads to smaller particle sizes compared to single-fuel methods?"}
+{"query_id": "174539438646309128-s11", "query": "How do the flow characteristics and vortex interactions change as the spacing ratio (L/D) between two tandem circular cylinders varies?"}
+{"query_id": "174539438646309128-s7", "query": "How do the length and positioning of splitter plates influence vortex shedding and drag on circular cylinders in fluid flow?"}
+{"query_id": "174539438646389624-s9", "query": "How do experiments characterize the spreading behavior and instabilities of free-surface gravity currents formed by less-dense water flowing over denser saline ambient water?"}
+{"query_id": "174539438646691504-s3", "query": "How does leveraging both multicore CPU parallelization and GPU acceleration enhance the performance of electromagnetic field simulations in scientific computing?"}
+{"query_id": "174539438646721908-s3", "query": "How are wind speed measurements taken at different heights adjusted to the standard 10-meter reference height in atmospheric boundary layer modeling?"}
+{"query_id": "174539438646723953-s11", "query": "How do analyses of fog climatology, particularly seasonal and diurnal variations, enhance short-term forecasting at airports?"}
+{"query_id": "174539438646725123-s4", "query": "How do the surface properties and structural features of solid nucleators affect their efficiency in ice nucleation?"}
+{"query_id": "174539438646725123-s6", "query": "How do the surface conditions and chemical composition of meteoritic particles affect their ice nucleation activity in the atmosphere?"}
+{"query_id": "174539438646725875-s8", "query": "How does permeability in fault zone rocks change with effective normal stress, and what evidence supports this relationship?"}
+{"query_id": "174539438646726525-s18", "query": "How far from an earthquake’s epicenter have precursory groundwater anomalies been detected, and how do these distances relate to the earthquake’s magnitude and specific historical events?"}
+{"query_id": "174539438646727115-s2", "query": "How do the atmosphere and clouds contribute to reducing Earth's outgoing longwave radiation, and how does this create the greenhouse effect?"}
+{"query_id": "174539438646729591-s1", "query": "How have satellite-based lightning sensors improved the spatial coverage and detection capabilities of lightning monitoring over time?"}
+{"query_id": "174539438647461291-s6", "query": "Why is entropy considered a statistical concept in equilibrium statistical mechanics, and why does this limit its applicability to individual microscopic events?"}
+{"query_id": "174539438648359004-s4", "query": "What are the main mechanisms through which pulsed UV radiation inactivates microorganisms, and how does the intensity of irradiation affect these processes?"}
+{"query_id": "174539438749161930-s8", "query": "How do particle size, temperature, and volume fraction collectively influence the viscosity of nanofluids, and how are these factors incorporated into viscosity prediction models?"}
+{"query_id": "174539438749341821-s6", "query": "What role does the Test of Proficiency in Korean (TOPIK) play in high-stakes decision-making processes for foreign residents living in Korea?"}
+{"query_id": "174539438749842651-s17", "query": "What are the differences in stability and the degradation challenges of orpiment and realgar pigments used in historical artworks?"}
+{"query_id": "174539438749848461-s13", "query": "What are the specific advantages of using micro-CT for analyzing waterlogged archaeological wood, particularly in terms of its non-destructive nature and practical applications?"}
+{"query_id": "174539438749848461-s18", "query": "What are the main limitations of sample preparation and imaging conditions in standard scanning electron microscopy (SEM) when analyzing degraded archaeological wood?"}
+{"query_id": "174539438749848461-s23", "query": "What are the main limitations of using thermogravimetry to assess the preservation state of archaeological wood?"}
+{"query_id": "174539438749848461-s32", "query": "What are the main technical and practical challenges that hinder the routine use of pyrolysis gas chromatography for analyzing archaeological wood?"}
+{"query_id": "174539438749848461-s33", "query": "What are the main advantages and challenges of using derivatisation in pyrolysis-GC analysis of archaeological wood?"}
+{"query_id": "174539438749848461-s44", "query": "What are the main advantages and limitations of Raman spectroscopy compared to FTIR for analyzing waterlogged archaeological wood?"}
+{"query_id": "174539438749848461-s5", "query": "How have advances in photogrammetry and laser scanning enhanced the visualization and monitoring of waterlogged archaeological wood?"}
+{"query_id": "174539438749876509-s6", "query": "How do wind-transported dust deposits, such as loess, affect the variability and sources of strontium isotope ratios in soils and river systems?"}
+{"query_id": "174539438749884137-s2", "query": "What are the key principles established by the 2001 UNESCO Convention for the Protection of Underwater Cultural Heritage?"}
+{"query_id": "174539438749898572-s8", "query": "How can amino acid analyses be used to assess collagen preservation in bone samples, and what challenges complicate the interpretation of these analyses?"}
+{"query_id": "174539438749997277-s2", "query": "What are some examples of early accidental or intentional production of glassy slags found in archaeological contexts?"}
+{"query_id": "174539438750004169-s2", "query": "What are the stages and key characteristics of the five-level ladder taxonomy that describes the transition from BIM to Digital Twin?"}
+{"query_id": "174539438750006691-s15", "query": "How does applying a tensile load influence the initiation and propagation of micro- and macro-cracks, as well as the load-displacement behavior, in normal strength concrete (NSC) tie-beam tests?"}
+{"query_id": "174539438851146479-s8", "query": "What are the typical timing characteristics of phasic skin conductance responses (SCR) in electrodermal activity (EDA) studies, and what considerations should be taken into account during their analysis?"}
+{"query_id": "174539438851457347-s3", "query": "How do the number of bidders and their behavior affect price savings and the level of competition in electronic reverse auctions?"}
+{"query_id": "174539438851458459-s2", "query": "What are the specific indicators commonly used to measure Green Competitive Advantage (GCA) in firms?"}
+{"query_id": "174539438851459151-s4", "query": "How has the Central Bank of the Bahamas implemented its digital currency pilot, and how does it justify the project in terms of enhancing financial inclusion, especially in remote areas?"}
+{"query_id": "174539438851459151-s9", "query": "How have Sweden's high digitization level and payment habits influenced the country's notable decline in cash usage?"}
+{"query_id": "174539438851497412-s3", "query": "How does the Vulnerability as Lack of Entitlements (VLE) framework conceptualize vulnerability, and in what ways does it measure individual vulnerability independently of risk?"}
+{"query_id": "174539438851818814-s0", "query": "How does the Pyramid Model framework organize its practices to foster children’s social-emotional competence and address challenging behavior?"}
+{"query_id": "174539438851835317-s5", "query": "How do ESL learners’ first-language literacy levels affect their ability to transfer sound-to-spelling correspondence knowledge when learning English spelling?"}
+{"query_id": "174539438851835333-s5", "query": "How is readability defined and measured when considered as a moderator in genre-based studies of inferential comprehension?"}
+{"query_id": "174539438851837647-s11", "query": "In what ways do decodable texts support early reading development and reinforce the alphabetic principle?"}
+{"query_id": "174539438852224294-s9", "query": "Which tasks does the WISC include to assess working memory, and what evidence demonstrates their reliability?"}
+{"query_id": "174539438852224745-s13", "query": "How is game-like educational software designed to support the development of phonological awareness in preschool children?"}
+{"query_id": "174539438852226301-s18", "query": "Why is it important to design simple and intuitive gameplay for serious location-based games, especially considering the varying skill levels of players and the potential lack of onsite support?"}
+{"query_id": "174539438852227376-s3", "query": "How does the guiding framework categorize the dispositions and personal leadership resources that are essential for educational leaders?"}
+{"query_id": "174539438852228195-s11", "query": "How is the cyclical and iterative nature of the design-based research (DBR) methodology structured and managed throughout its various research phases?"}
+{"query_id": "174539438852228763-s3", "query": "How are hands-on activities incorporated into chemistry escape rooms to unlock locks, and what types of puzzles do they typically include?"}
+{"query_id": "174539438852229581-s13", "query": "What do pooled analyses indicate about teachers' knowledge regarding the correct washing and transporting media for avulsed teeth, and which factors influence their responses?"}
+{"query_id": "174539438852554826-s20", "query": "What are the main constraints related to time and collaboration that limit teachers’ effective use of student data to improve instruction?"}
+{"query_id": "174539438852602485-s1", "query": "What are the relative advantages and disadvantages of using peer nomination versus self-report methods to measure the prevalence of bullying?"}
+{"query_id": "174539438852603948-s6", "query": "How are the three categories of representational competencies defined and distinguished in the context of multiple external representations?"}
+{"query_id": "174539438852606223-s23", "query": "Why is it important to use technologically advanced devices instead of manual counting when measuring physiological arousal?"}
+{"query_id": "174539438852606280-s12", "query": "How do variations in children’s body posture, arm movements, and pencil grip affect their handwriting performance, and what evidence supports these effects?"}
+{"query_id": "174539438852606280-s18", "query": "What specific handwriting difficulties and variabilities distinguish poor writers from good handwriters?"}
+{"query_id": "174539438852607156-s6", "query": "How do learner-generated drawings support the development of story ideas and planning in writing tasks?"}
+{"query_id": "174539438852608906-s15", "query": "How do certain personality traits and social-cognitive tendencies increase preschool children's vulnerability to bullying?"}
+{"query_id": "174539438852608906-s17", "query": "What does research indicate about the stability of aggressor, defender, and victim roles among preschool children?"}
+{"query_id": "174539438852609476-s3", "query": "What does the National Educational Longitudinal Study reveal about patterns of declining school-initiated parental involvement during adolescence?"}
+{"query_id": "174539438852609768-s2", "query": "How does the developmental spelling model explain the progression children make through different stages of spelling development?"}
+{"query_id": "174539438852609768-s4", "query": "How have spelling tests been modified to provide immediate feedback, and what techniques have been effective for children with spelling difficulties?"}
+{"query_id": "174539438852705767-s17", "query": "How do emotional factors differently mediate the relationship between self-doubt, self-regulation, and academic cheating?"}
+{"query_id": "174539438852814434-s4", "query": "How does a comparative phonetics-based Computer-Assisted Pronunciation Training (CAPT) system analyze English pronunciation errors and provide feedback to learners?"}
+{"query_id": "174539438852817898-s8", "query": "How are teacher practices for technology-enhanced collaborative writing classified, and what specific activities do they encompass before, during, and after the writing tasks?"}
+{"query_id": "174539438852819729-s14", "query": "How have eye movement metrics been utilized to assess and compare mathematics skills in children with disabilities and typically developing children?"}
+{"query_id": "174539438852819864-s10", "query": "How does the Task Technology Fit (TTF) theory illustrate the four main categories used to classify technology theories?"}
+{"query_id": "174539438952889893-s16", "query": "What are the specific challenges that limit primary school teachers from effectively managing complex learning activities across multiple spaces?"}
+{"query_id": "174539438952889893-s4", "query": "What are the main components of the framework used to analyze class orchestration in pedagogical practices?"}
+{"query_id": "174539438952963420-s5", "query": "How does the Facial Action Coding System (FACS) describe and measure facial expressions to detect engagement?"}
+{"query_id": "174539438952966661-s2", "query": "How are standardized patients trained to reliably and consistently simulate real patients during repeated clinical assessments?"}
+{"query_id": "174539438953116078-s7", "query": "What experimental evidence from animal studies illustrates the interaction between arsenic exposure and a high-fat diet in exacerbating metabolic dysfunction and organ damage?"}
+{"query_id": "174539439054041121-s4", "query": "How does the dual pathway model account for the cyclical relationship between body dissatisfaction, depression, and bulimic behaviors in adolescent females?"}
+{"query_id": "174539439054045054-s7", "query": "How do co-occurring externalizing symptoms affect peer status ratings among youth with ADHD across different informants and settings?"}
+{"query_id": "174539439054045802-s25", "query": "How do online behavioral parenting interventions impact parenting self-efficacy based on within-group and between-group analyses?"}
+{"query_id": "174539439054047157-s7", "query": "How do anticipatory and reactive smiling in infancy relate differently to later social functioning outcomes?"}
+{"query_id": "174539439054049878-s1", "query": "What evidence demonstrates the strong link between selective mutism and social anxiety in children?"}
+{"query_id": "174539439054049878-s10", "query": "What evidence supports the efficacy and safety of fluoxetine as a pharmacological treatment for children with selective mutism?"}
+{"query_id": "174539439054075464-s17", "query": "How do programs that combine instruction with simulation impact the financial decision-making behaviors of high school students?"}
+{"query_id": "174539439054075464-s2", "query": "What are the key characteristics of a successful youth financial education program according to the US Department of the Treasury?"}
+{"query_id": "174539439054075464-s4", "query": "What strategies do financial education programs use to actively engage parents in their children's financial learning?"}
+{"query_id": "174539439054076532-s3", "query": "In what ways does primogeniture act as a cultural barrier that limits daughters from succeeding in family businesses?"}
+{"query_id": "174539439054077474-s9", "query": "How do mothers’ childcare activities change in type and intensity as the number of children in a family increases?"}
+{"query_id": "174539439054926154-s7", "query": "What are the predominant methods of homicide among pregnant and postpartum women in different countries, and how do these methods vary across regions?"}
+{"query_id": "174539439055013424-s6", "query": "How do sequential logistic regression models explain and predict students’ decisions to continue or leave at different stages during their higher education journey?"}
+{"query_id": "174539439055015375-s5", "query": "How does the ETSI Student Manual organize the stages of student-led discussion groups to maximize their effectiveness?"}
+{"query_id": "174539439055293508-s0", "query": "In what ways can structured role-playing games be utilized to gather sociolinguistic data within bureaucratic settings?"}
+{"query_id": "174539439155434577-s5", "query": "How do subtle word choices in immigration-related texts affect people's emotional reactions and their views on immigration and its economic consequences?"}
+{"query_id": "174539439155434577-s8", "query": "How do conjoint experiments help us understand public preferences for different types of immigrants based on their descriptive attributes?"}
+{"query_id": "174539439155486615-s13", "query": "How do the remote housing locations of Seasonal Agricultural Workers in Canada impact their access to transportation and essential services?"}
+{"query_id": "174539439157201084-s1", "query": "How do the three domains of the Short Physical Performance Battery (SPPB) collectively reflect the decline in physical function among older adults?"}
+{"query_id": "174539439157201383-s20", "query": "What do the pooled effect sizes and measures of heterogeneity indicate about mortality risks for liver, pancreatic, and gall bladder cancers?"}
+{"query_id": "174539439157201481-s11", "query": "How is the Female Sexual Function Index (FSFI) designed and scored to provide a comprehensive assessment of women's sexual functioning?"}
+{"query_id": "174539439157202026-s10", "query": "How do surgical masks and N95 respirators compare in their effectiveness and user comfort when reducing airborne bacterial pathogens?"}
+{"query_id": "174539439157202310-s4", "query": "How does chronic exposure to ultrafine agrochemical particles contribute to the development of cardiovascular disease among farmworkers?"}
+{"query_id": "174539439157202848-s7", "query": "How is the risk of bias evaluated and incorporated when using the JBI Critical Appraisal Checklist for prevalence studies?"}
+{"query_id": "174539439157204947-s20", "query": "How do nurse-to-patient ratios affect patient outcomes such as mortality, readmission rates, length of hospital stay, and patient satisfaction in hospitals?"}
+{"query_id": "174539439157205027-s10", "query": "What have randomized controlled trials revealed about the safety and adverse events associated with convalescent plasma transfusion in COVID-19 patients?"}
+{"query_id": "174539439157205042-s10", "query": "How do retrospective cohort studies compare mortality outcomes between pre-hospital tourniquet application and other types of tourniquet use in trauma patients?"}
+{"query_id": "174539439157205270-s3", "query": "What are the characteristic neuropathological abnormalities associated with ethanol-related neurotoxicity?"}
+{"query_id": "174539439157205778-s6", "query": "How do clinical trials and meta-analyses assess the effectiveness of n-3 polyunsaturated fatty acid supplementation in reducing the risk of bronchopulmonary dysplasia in preterm infants?"}
+{"query_id": "174539439157206428-s4", "query": "What evidence supports the effectiveness of oral antiseptic rinses in reducing the SARS-CoV-2 viral load and the risk of transmission during dental procedures?"}
+{"query_id": "174539439157206428-s9", "query": "How effective are various concentrations and formulations of povidone-iodine (PVP-I) in inactivating SARS-CoV-2 and reducing viral load in clinical settings?"}
+{"query_id": "174539439157206550-s36", "query": "How do smoke-free policies affect respiratory symptoms, lung function, and biomarkers among non-smoking hospitality workers?"}
+{"query_id": "174539439157206587-s13", "query": "How does developmental plasticity account for variations in human leg length as a reflection of the quality of early-life environmental conditions?"}
+{"query_id": "174539439157206755-s12", "query": "How can the correlations between hyponatremia, oxygenation index, and IL-6 levels guide treatment decisions in non-ICU COVID-19 patients?"}
+{"query_id": "174539439157207091-s10", "query": "How do blinding practices influence the assessment of performance bias in randomized trials investigating Tai Chi for depressive symptoms?"}
+{"query_id": "174539439157207091-s11", "query": "What does the evidence say about the effectiveness of combining Tai Chi with antidepressants compared to using antidepressants alone for reducing depressive symptoms?"}
+{"query_id": "174539439157207339-s8", "query": "How does phytostabilization help reduce heavy metal pollution without the uptake of metals into plant tissues?"}
+{"query_id": "174539439157207885-s3", "query": "How do low levels of apolipoprotein E (APOE) influence cognitive decline and the development of Alzheimer’s disease pathology?"}
+{"query_id": "174539439157207988-s11", "query": "How do hair cadmium levels differ among formal e-waste workers, informal workers, occupationally exposed groups, non-occupational exposure groups, and controls, and how do these levels compare to established reference ranges?"}
+{"query_id": "174539439157209064-s8", "query": "How does private health insurance enrollment influence the utilization of inpatient and outpatient healthcare services across different populations in China?"}
+{"query_id": "174539439157209501-s0", "query": "How do the repetitive pelvic movements and balance adjustments involved in hippotherapy contribute to the enhancement of postural control?"}
+{"query_id": "174539439157209813-s5", "query": "How is malodour severity in patients with hidradenitis suppurativa related to their quality of life and sexual health?"}
+{"query_id": "174539439157209926-s15", "query": "How are blood manganese levels related to the severity of cognitive impairment?"}
+{"query_id": "174539439157212566-s9", "query": "How do studies generally report Plasmodium parasitemia levels in patients co-infected with dengue compared to those infected with Plasmodium alone?"}
+{"query_id": "174539439157213038-s0", "query": "What does existing evidence reveal about the impact of public smoking bans on children’s exposure to secondhand smoke at home?"}
+{"query_id": "174539439157214154-s0", "query": "How have the World Health Organization’s guidelines for initiating antiretroviral therapy (ART) in children changed since 2013, and what global targets do these guidelines aim to support?"}
+{"query_id": "174539439157215391-s17", "query": "How does walking in high-heeled shoes affect plantar pressure, impact force, maximum force, and contact area across different regions of the foot?"}
+{"query_id": "174539439157215723-s17", "query": "How do sociodemographic factors affect immunization coverage among children aged 12 to 23 months in Ethiopia?"}
+{"query_id": "174539439157215745-s9", "query": "What evidence supports the finding that married people living with HIV generally have higher fertility intentions compared to those with other marital statuses?"}
+{"query_id": "174539439157215781-s18", "query": "What evidence is there from research in Southeast Asia that links financial difficulties to an increased risk of depression?"}
+{"query_id": "174539439157217221-s11", "query": "What types of substitutions are commonly found in counterfeit anabolic androgenic steroids, and can you provide examples illustrating these substitutions?"}
+{"query_id": "174539439157217441-s24", "query": "How do factors such as patient residence, hospitalization, and treatment location affect the mean post-diagnosis costs for tuberculosis patients?"}
+{"query_id": "174539439157217811-s5", "query": "What are the key demographic and clinical characteristics of non-fatal self-harm cases presenting to hospitals in the Philippines?"}
+{"query_id": "174539439157217820-s7", "query": "How do mortality rates from coronary heart disease and stroke vary among Afro-Caribbean populations in comparison to other ethnic groups, and what roles do factors such as ethnicity, birthplace, sex, and age play in these differences?"}
+{"query_id": "174539439157217986-s16", "query": "What are the reported effect sizes and confidence intervals for fundamental movement skills and coping planning in school-based interventions?"}
+{"query_id": "174539439157219696-s11", "query": "What evidence supports the idea that children who engage in at least 60 minutes of moderate-to-vigorous physical activity daily have a lower risk of developing myopia?"}
+{"query_id": "174539439257292950-s10", "query": "How do suicide rates among the elderly in rural areas quantitatively compare to those in urban areas according to recent research?"}
+{"query_id": "174539439257315097-s6", "query": "What HIV-related risk behaviors and social disadvantages distinguish Indigenous peoples from non-Indigenous populations?"}
+{"query_id": "174539439257608954-s15", "query": "How do different digital learning technologies compare in their effectiveness for theoretical knowledge acquisition within blended physiotherapy education?"}
+{"query_id": "174539439257608954-s8", "query": "How are lower-level and higher-level multiple-choice questions distinguished in physiotherapy education assessments?"}
+{"query_id": "174539439257637993-s18", "query": "How is interrater reliability assessed and addressed among multiple coders using a priori coding schemes in STEM education research?"}
+{"query_id": "174539439257716738-s9", "query": "What are the key features and advantages of hybrid projects that combine synchronous and asynchronous interactions in virtual role model visits?"}
+{"query_id": "174539439257761404-s7", "query": "What types of in-class activities have been identified in studies on the mathematics flipped classroom, and what are their key characteristics?"}
+{"query_id": "174539439257801725-s1", "query": "How do gendered and gender-neutral bystander programs differ in their approaches to preventing sexual assault among adolescents and college students?"}
+{"query_id": "174539439257804897-s8", "query": "How have research studies assessed the relationship between sexual activity—specifically coitus and orgasm—in late pregnancy and adverse obstetric or perinatal outcomes?"}
+{"query_id": "174539439257805458-s6", "query": "How does neonatal hormone treatment influence the sexual behaviors and responses of male and female hamsters?"}
+{"query_id": "174539439257805468-s2", "query": "How are the phases of the human sexual response sequentially characterized in terms of anatomy, physiology, and psychology?"}
+{"query_id": "174539439257805607-s1", "query": "What evidence demonstrates discrepancies between self-reported sexual interest and physiological measures in sexual offenders?"}
+{"query_id": "174539439257807737-s8", "query": "How do meta-analyses help clarify the differences in testosterone and estradiol levels between sexual minority and heterosexual women without ovarian problems?"}
+{"query_id": "174539439257808560-s0", "query": "What physiological and behavioral features are commonly shared between sexual arousal and undisturbed childbirth?"}
+{"query_id": "174539439257808560-s3", "query": "What are the differences between midline and mediolateral episiotomies in terms of surgical technique and their effects on postpartum dyspareunia?"}
+{"query_id": "174539439257809844-s7", "query": "What are the main methodological limitations in psychosocial research on sexuality among individuals with spinal cord injury?"}
+{"query_id": "174539439257982196-s7", "query": "What restrictive attitudes towards the sexual rights and parenting of people with intellectual disabilities have been observed among their parents and professional staff?"}
+{"query_id": "174539439257988005-s1", "query": "What methodological challenges have most studies on male physiological development encountered that impact the interpretation of their results?"}
+{"query_id": "174539439258006093-s13", "query": "How do subtle phonological differences across languages affect the variability observed in the acoustic features of infant-directed speech?"}
+{"query_id": "174539439258134147-s15", "query": "How do cultural practices such as religious fasting during Ramadan and consanguineous marriages influence the risk and management of diabetes in Algeria?"}
+{"query_id": "174539439258199359-s7", "query": "What evidence supports the existence of an exponential relationship between nitrogen inputs and N₂O emissions in agricultural soils of sub-Saharan Africa?"}
+{"query_id": "174539439358725380-s17", "query": "What psychometric evidence supports the reliability and validity of the first PEAK module for individuals with autism?"}
+{"query_id": "174539439358883255-s13", "query": "What are the key safety risks associated with specific LEED-certified design and construction practices in green building projects?"}
+{"query_id": "174539439358887268-s2", "query": "How does the disassembly process effectively separate reusable components from toxic materials in printed circuit boards (PCBs)?"}
+{"query_id": "174539439358887410-s1", "query": "How does varying the pyrolysis temperature affect the chemical composition and pore structure of biochar?"}
+{"query_id": "174539439358889241-s12", "query": "How do tidal flow constructed wetlands enhance pollutant removal compared to conventional constructed wetlands, especially in terms of oxygen transfer and nitrogen removal processes?"}
+{"query_id": "174539439358979317-s7", "query": "How are external benchmark values established in building environmental assessments using bottom-up and top-down approaches?"}
+{"query_id": "174539439358987363-s7", "query": "How does the classical subjective expected utility framework incorporate and interpret both risk and model uncertainty in decision-making under uncertainty?"}
+{"query_id": "174539439359018228-s1", "query": "What are the main definitions and preferred terms for English-Medium Instruction, and what are the reasons behind these preferences?"}
+{"query_id": "174539439359111892-s4", "query": "How do placement tests help ensure that EFL learners receive reading materials that provide appropriately leveled comprehensible input to improve their reading skills?"}
+{"query_id": "174539439359116316-s2", "query": "How are Cognitive Reading Strategies categorized in ESL/EFL reading comprehension, and how are they connected with specific sub-strategies?"}
+{"query_id": "174539439359117524-s6", "query": "What are the main challenges that limit the effectiveness of peer feedback in ESL writing classrooms, and how can students’ evaluative skills be enhanced?"}
+{"query_id": "2044324-s7", "query": "What makes the Microsoft COCO Dataset important for research in vision and language, and what are its key features?"}
+{"query_id": "221970053-s21", "query": "How is the WinoGender dataset used to assess gender bias in pre-trained language models?"}
+{"query_id": "237099284-s12", "query": "How does the TRADE model enable effective knowledge transfer across different domains in dialogue state tracking?"}
+{"query_id": "252461144-s4", "query": "What is the Rule-based Approach in machine translation, and what are its benefits and limitations?"}
+{"query_id": "258426970-s8", "query": "What are the primary techniques for optimizing model parameters using human feedback, and how are these techniques categorized?"}
+{"query_id": "264439179-s3", "query": "What are the limitations of using AUROC as a metric for evaluating detection algorithms, and what alternative metrics are suggested?"}
+{"query_id": "44130961-s18", "query": "How is inter-annotator agreement assessed in various annotation tasks, and what factors can affect these scores?"}
+{"query_id": "47019063-s7", "query": "How can we effectively compare word vectors from different time-specific models?"}
+{"query_id": "49587276-s10", "query": "How do neural network systems that infer features compare to those that rely on feature engineering in Named Entity Recognition (NER) tasks across various languages?"}

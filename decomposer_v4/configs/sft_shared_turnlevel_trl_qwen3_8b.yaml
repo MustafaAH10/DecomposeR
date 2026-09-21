@@ -1,0 +1,61 @@
+base_model: Qwen/Qwen3-8B-Instruct-2507
+tokenizer_name: Qwen/Qwen3-8B-Instruct-2507
+output_dir: outputs/sft/qwen3_8b_turnlevel
+
+model:
+  attn_implementation: sdpa
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - up_proj
+    - down_proj
+    - gate_proj
+
+sft:
+  dataset_mode: prompt_completion
+  max_length: 16384
+  packing: false
+  pad_to_multiple_of: 8
+  truncation_side: left
+
+training:
+  learning_rate: 1.0e-5
+  epochs: 2
+  per_device_batch_size: 1
+  gradient_accumulation_steps: 8
+  warmup_ratio: 0.03
+  lr_scheduler: cosine
+  optim: adamw_torch_fused
+  weight_decay: 0.0
+  max_grad_norm: 1.0
+  bf16: true
+  gradient_checkpointing: true
+  gradient_checkpointing_kwargs:
+    use_reentrant: false
+  logging_steps: 5
+  eval_strategy: epoch
+  save_strategy: steps
+  save_steps: 250
+  save_total_limit: 4
+  save_only_model: false
+  ddp_find_unused_parameters: false
+  dataloader_num_workers: 4
+  dataloader_persistent_workers: true
+  dataloader_prefetch_factor: 2
+  deepspeed: decomposer_v4/configs/deepspeed_zero2_bf16_lora.json
+  logging_dir: outputs/sft/qwen3_8b_turnlevel/logs
+  length_column_name: length
+  report_to: []
+
+data:
+  train_file: data/sft/shared_turn_train.jsonl
+  val_file: data/sft/shared_turn_val.jsonl
+  dataset_num_proc: 8
+  shuffle_dataset: true

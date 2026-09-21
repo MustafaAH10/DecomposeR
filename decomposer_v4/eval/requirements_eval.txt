@@ -1,0 +1,16 @@
+torch
+transformers
+accelerate
+peft
+sentencepiece
+safetensors
+openai
+requests
+PyYAML
+datasets
+huggingface_hub
+tqdm
+blobfile
+jinja2
+pandas
+numpy

@@ -1,0 +1,3 @@
+total_citations: 51.44
+total_valid_citations: 37.76
+valid_rate: 0.7340590979782271

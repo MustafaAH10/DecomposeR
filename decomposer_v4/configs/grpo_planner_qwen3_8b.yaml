@@ -1,0 +1,101 @@
+base_model: outputs/models/qwen3_8b_sft_merged
+reference_model: outputs/models/qwen3_8b_sft_merged
+tokenizer_name: outputs/models/qwen3_8b_sft_merged
+train_source: data/rl/planner
+output_dir: outputs/rl/planner_grpo
+
+model:
+  attn_implementation: sdpa
+
+lora:
+  r: 64
+  alpha: 128
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - up_proj
+    - down_proj
+    - gate_proj
+
+generation:
+  num_samples_per_query: 6
+  temperature: 1.0
+  top_p: 1.0
+  num_results_per_search: 5
+  max_fetches: 4
+  max_concurrent_searches: 8
+  planner_initial_max_new_tokens: 4096
+  planner_revision_max_new_tokens: 4096
+  packed_max_total_tokens: 12288
+
+reward:
+  planner:
+    rubric_coverage_weight: 0.4
+    search_quality_weight: 0.3
+    graph_expressiveness_weight: 0.3
+    graph_synthesis_shape_ratio: 0.4
+    graph_cross_branch_ratio: 0.4
+    graph_search_sufficiency_ratio: 0.2
+    include_node_need_in_rubric_coverage: true
+
+embedding:
+  backend: sentence_transformer
+  model: sentence-transformers/all-MiniLM-L6-v2
+
+rollout:
+  enabled: true
+  output_dir: outputs/rl/planner_grpo/rollouts
+  include_prompt_messages: false
+  max_parallel_episodes: 4
+
+runtime:
+  rollout_name: vllm
+  use_shm: true
+  use_remove_padding: true
+  model_dtype: bf16
+  tensor_model_parallel_size: 2
+  gpu_memory_utilization: 0.55
+  max_prompt_length: 4096
+  max_response_length: 8192
+  max_model_len: 12288
+  max_num_batched_tokens: 16384
+  max_num_seqs: 24
+  agent_num_workers: 8
+  load_format: safetensors
+  layered_summon: true
+  enable_chunked_prefill: true
+  enable_prefix_caching: true
+  free_cache_engine: true
+
+rl:
+  run_name: planner-grpo-qwen3-8b
+  learning_rate: 4.0e-6
+  epochs: 2.0
+  max_steps: -1
+  train_batch_size: 8
+  val_batch_size: 8
+  ppo_mini_batch_size: 4
+  ppo_micro_batch_size_per_gpu: 1
+  log_prob_micro_batch_size_per_gpu: 1
+  use_dynamic_bsz: true
+  ppo_max_token_len_per_gpu: 24576
+  warmup_ratio: 0.0
+  weight_decay: 0.0
+  gradient_checkpointing: true
+  strategy: fsdp2
+  param_offload: false
+  optimizer_offload: false
+  ref_param_offload: true
+  use_kl_loss: true
+  beta: 0.001
+  kl_loss_type: low_var_kl
+  entropy_coeff: 0.0
+  save_freq: 50
+  max_actor_ckpt_to_keep: 3
+  test_freq: -1
+  val_before_train: false
+  report_to: []
+  resume_mode: auto
+  seed: 13

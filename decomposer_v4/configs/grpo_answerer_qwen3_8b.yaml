@@ -1,0 +1,100 @@
+base_model: outputs/models/qwen3_8b_planner_rl_merged
+reference_model: outputs/models/qwen3_8b_planner_rl_merged
+tokenizer_name: outputs/models/qwen3_8b_planner_rl_merged
+train_source: data/rl/answerer_prepared
+output_dir: outputs/rl/answerer_grpo
+
+model:
+  attn_implementation: sdpa
+
+lora:
+  r: 64
+  alpha: 128
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - up_proj
+    - down_proj
+    - gate_proj
+
+generation:
+  num_samples_per_query: 6
+  temperature: 1.0
+  top_p: 1.0
+  answer_execution_max_new_tokens: 16384
+  answer_final_max_new_tokens: 16384
+  packed_max_total_tokens: 28672
+
+reward:
+  answer:
+    execution_weight: 0.5
+    synthesis_weight: 0.5
+    answer_judge_weight: 0.5
+    branch_utilization_weight: 0.5
+
+judge:
+  base_url: https://api.openai.com/v1
+  model: gpt-5-mini
+  max_parallel_requests: 8
+
+embedding:
+  backend: sentence_transformer
+  model: sentence-transformers/all-MiniLM-L6-v2
+
+rollout:
+  enabled: true
+  output_dir: outputs/rl/answerer_grpo/rollouts
+  include_prompt_messages: false
+  max_parallel_episodes: 1
+
+runtime:
+  rollout_name: vllm
+  use_shm: true
+  use_remove_padding: true
+  model_dtype: bf16
+  tensor_model_parallel_size: 2
+  gpu_memory_utilization: 0.40
+  max_prompt_length: 8192
+  max_response_length: 16384
+  max_model_len: 28672
+  max_num_batched_tokens: 16384
+  max_num_seqs: 6
+  agent_num_workers: 2
+  load_format: safetensors
+  layered_summon: true
+  enable_chunked_prefill: true
+  enable_prefix_caching: true
+  free_cache_engine: true
+
+rl:
+  run_name: answerer-grpo-qwen3-8b
+  learning_rate: 4.0e-6
+  epochs: 1.0
+  max_steps: -1
+  train_batch_size: 4
+  val_batch_size: 4
+  ppo_mini_batch_size: 2
+  ppo_micro_batch_size_per_gpu: 1
+  log_prob_micro_batch_size_per_gpu: 1
+  use_dynamic_bsz: true
+  ppo_max_token_len_per_gpu: 16384
+  warmup_ratio: 0.0
+  weight_decay: 0.0
+  gradient_checkpointing: true
+  strategy: fsdp2
+  param_offload: true
+  optimizer_offload: true
+  ref_param_offload: true
+  use_kl_loss: true
+  beta: 0.005
+  kl_loss_type: low_var_kl
+  entropy_coeff: 0.0
+  save_freq: 50
+  max_actor_ckpt_to_keep: 3
+  test_freq: -1
+  val_before_train: false
+  report_to: []
+  resume_mode: auto
+  seed: 13

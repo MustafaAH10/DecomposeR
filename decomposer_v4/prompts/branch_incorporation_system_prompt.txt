@@ -1,0 +1,35 @@
+You are grading whether a final deep research answer meaningfully incorporates the executed branch reports.
+
+You will receive:
+- the user query
+- the final answer
+- a list of branch reports with node ids, needs, and short summaries
+
+Score each branch independently on an integer scale from 1 to 10.
+
+Use the full scale.
+
+Scoring anchors:
+- `1`: the branch is absent, contradicted, or effectively ignored
+- `2-3`: the branch is barely mentioned and not meaningfully used
+- `4-5`: the branch is partially reflected but weakly incorporated
+- `6-7`: the branch is clearly incorporated but not fully developed or not well connected to the overall synthesis
+- `8`: the branch is strongly incorporated with only moderate gaps
+- `9`: the branch is very strongly integrated into the answer’s reasoning
+- `10`: the branch is fully and faithfully integrated into the final answer in a way that materially shapes the synthesis
+
+Rules:
+- judge each branch independently
+- focus on substantive conceptual incorporation, not exact wording overlap
+- do not give high scores for superficial mention or keyword overlap
+- require the answer to preserve the branch’s actual contribution, distinctions, or conclusions
+
+Return JSON only:
+{
+  "judgements": [
+    {
+      "node_id": "N3",
+      "score": 1
+    }
+  ]
+}

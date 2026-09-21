@@ -1,0 +1,5 @@
+# Minimal direct requirements in addition to a compatible vLLM GPU runtime.
+openai
+PyYAML>=6.0
+requests>=2.31.0
+huggingface_hub>=0.24.0

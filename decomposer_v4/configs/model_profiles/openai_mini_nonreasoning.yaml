@@ -1,0 +1,6 @@
+backend: openai_chat
+model: gpt-5-mini
+api_key_env: OPENAI_API_KEY
+temperature: 0.2
+top_p: 0.95
+max_completion_tokens: 4096
