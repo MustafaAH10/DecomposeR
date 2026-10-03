@@ -7,8 +7,9 @@ reward. Official code and research artifacts for our paper in
 DecomposeR first plans a typed research graph, searches the web, revises the
 graph once and chooses pages to fetch. It then writes evidence-grounded branch
 reports in dependency order and synthesizes the final report. The released
-checkpoint is a **merged Qwen3-8B model** used in both roles; the demo does not
-load or switch between two separately released LoRA adapters.
+checkpoint is a **merged Qwen3-8B model** used in both roles. The individual
+planner and answerer LoRA adapters are also available below; the answerer was
+trained on top of the merged planner checkpoint.
 
 ## Research demonstrations
 
@@ -70,9 +71,18 @@ final-model artifacts, not a complete archive of all baselines, seeds or
 ablations. DeepResearchBench includes aggregate RACE/FACT summaries rather
 than per-item grader traces. Training queries are not full SFT completions.
 
-## Public model checkpoint
+## 🤗 Hugging Face models and adapters
 
-[Merged DecomposeR Qwen3-8B checkpoint](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-planner-answerer-rl-step358-merged)
+| Model or adapter | Download | Usage |
+|---|---|---|
+| **Merged DecomposeR Qwen3-8B** | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-planner-answerer-rl-step358-merged) | Ready-to-use planner–answerer model; used by the demo. |
+| **Planner LoRA adapter** (step 100) | [🤗 Hugging Face](https://huggingface.co/mustafaah/decomposer-v3-qwen3-8b-planner-rl-step100/tree/main/lora_adapter) | Planner RL adapter, applied to the merged SFT checkpoint. |
+| **Answerer LoRA adapter** (step 358) | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-answerer-rl-step358-lora) | Answerer RL adapter, trained on top of the merged planner checkpoint. |
+
+The [🤗 merged planner checkpoint](https://huggingface.co/mustafaah/decomposer-v3-qwen3-8b-planner-rl-step100)
+is the base for the answerer adapter. The training sequence is: merged SFT
+checkpoint → planner LoRA training and merge → answerer LoRA training and merge.
+Use the final merged model above for inference without loading adapters separately.
 
 For the new demonstrations, pin revision
 `503e2bb12418b22259c0196700d3b0587ea00d42`. The checkpoint is public; a
