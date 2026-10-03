@@ -76,12 +76,13 @@ than per-item grader traces. Training queries are not full SFT completions.
 | Model or adapter | Download | Usage |
 |---|---|---|
 | **Merged DecomposeR Qwen3-8B** | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-planner-answerer-rl-step358-merged) | Ready-to-use planner–answerer model; used by the demo. |
-| **Planner LoRA adapter** (step 100) | [🤗 Hugging Face](https://huggingface.co/mustafaah/decomposer-v3-qwen3-8b-planner-rl-step100/tree/main/lora_adapter) | Planner RL adapter, applied to the merged SFT checkpoint. |
-| **Answerer LoRA adapter** (step 358) | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-answerer-rl-step358-lora) | Answerer RL adapter, trained on top of the merged planner checkpoint. |
+| **SFT model** | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-SFTeval) | SFT checkpoint used as the base for planner RL training. |
+| **Planner LoRA adapter** | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-planner-rl-step300-lora) | Planner RL adapter, applied to the merged SFT checkpoint. |
+| **Answerer LoRA adapter** | [🤗 Hugging Face](https://huggingface.co/mustafaah/qwen3-8b-decomposer-v4-answerer-rl-step358-lora) | Answerer RL adapter, trained on top of the merged planner checkpoint. |
 
-The [🤗 merged planner checkpoint](https://huggingface.co/mustafaah/decomposer-v3-qwen3-8b-planner-rl-step100)
-is the base for the answerer adapter. The training sequence is: merged SFT
-checkpoint → planner LoRA training and merge → answerer LoRA training and merge.
+The answerer adapter was trained on top of the SFT model with the planner
+adapter merged into it. The training sequence is: SFT model → planner LoRA
+training and merge → answerer LoRA training and merge.
 Use the final merged model above for inference without loading adapters separately.
 
 For the new demonstrations, pin revision
