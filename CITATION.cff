@@ -9,7 +9,7 @@ authors:
     given-names: Xinle
   - family-names: Lu
     given-names: Yao
-repository-code: "https://github.com/MustafaAH10/DecomposeR-TMLR"
+repository-code: "https://github.com/MustafaAH10/DecomposeR"
 url: "https://mustafaah10.github.io/DecomposeR/"
 license: Apache-2.0
 preferred-citation:
