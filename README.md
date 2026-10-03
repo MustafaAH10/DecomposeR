@@ -44,7 +44,8 @@ graph nodes, node-to-node navigation, source links, and complete model reports.
 | Task | Location |
 |---|---|
 | Inspect saved benchmark reports and graphs without a GPU | `artifacts/evaluation/` |
-| Reproduce the HealthBench subset without a model or API keys | Command below |
+| Run benchmark generation and grading | [Benchmark evaluation](#benchmark-evaluation) |
+| Reproduce the HealthBench subset without a model or API keys | [Subset preparation](#reproduce-the-healthbench-subset) |
 | Generate new research reports | `demo/scripts/run_demo.sh` |
 | Read the exact planner and answerer instructions | `decomposer_v4/prompts/` |
 | Inspect training queries and RL rubrics | `artifacts/training_data/` |
@@ -103,6 +104,68 @@ The complete demonstration run uses a 96 GB GPU. The script does not rent
 hardware. Credentials stay in the process environment, never in Git or the
 browser. OpenAI, Gemini, Exa, DeepSeek and W&B credentials are not required to
 generate the demonstrations. Benchmark grading is a separate paid step.
+
+## Benchmark evaluation
+
+Evaluation runners for all three benchmarks live in `decomposer_v4/eval/`.
+The `demo/` folder contains demonstration and repository presentation tools.
+
+| Benchmark | Evaluation set | Runner |
+|---|---|---|
+| DeepResearchBench | All 100 queries, English and Chinese | `decomposer_v4/eval/run_deep_research_bench_full_eval.sh` |
+| ResearchQA-Mini | Full `test_mini` split, 776 queries | `decomposer_v4/eval/ResearchQA/run_researchqa_mini_final_8b.sh` |
+| HealthBench | 500 sampled examples, 20% from the hard split, seed 17 | `decomposer_v4/eval/run_healthbench_eval.sh` |
+
+Only HealthBench needs the custom subset-selection step described below.
+Saved queries and final-model outputs for all three benchmarks are included in
+`artifacts/evaluation/` for inspection without rerunning inference.
+
+### Generate and grade benchmark reports
+
+Run from the repository root in a compatible CUDA/vLLM environment. Install
+both inference and evaluation dependencies, select the merged model, and set
+the retrieval and grading credentials:
+
+```bash
+python3 -m pip install -r requirements-inference.txt -r decomposer_v4/eval/requirements_eval.txt
+export MODEL=mustafaah/qwen3-8b-decomposer-v4-planner-answerer-rl-step358-merged
+export JINA_API_KEY=...
+export SERPER_API_KEY=...
+export OPENAI_API_KEY=...
+```
+
+Run the desired benchmark:
+
+```bash
+# HealthBench: prepare the subset, generate reports, and grade.
+bash decomposer_v4/eval/run_healthbench_eval.sh
+
+# ResearchQA-Mini: download the split, generate reports, and grade coverage.
+bash decomposer_v4/eval/ResearchQA/run_researchqa_mini_final_8b.sh
+
+# DeepResearchBench: prepare language splits, generate reports, and run RACE/FACT.
+# Requires a separately installed evaluator checkout (see below).
+DRB_DIR=deep_research_bench bash decomposer_v4/eval/run_deep_research_bench_full_eval.sh
+```
+
+DeepResearchBench's evaluator is not bundled. Install its dependencies and
+configure its judge models and API credentials in a separate checkout at
+`deep_research_bench/`, or set `DRB_DIR` to that checkout's path. The runner
+expects `data/prompt_data/query.jsonl`, `deepresearch_bench_race.py`, and the
+FACT `utils` modules there. It evaluates English, Chinese, and combined outputs;
+judge configuration is managed by that external evaluator.
+
+HealthBench defaults to grader `gpt-4.1-2025-04-14`; ResearchQA-Mini defaults to
+coverage grader `gpt-4.1-mini`. Set `RUN_GRADE=0` or `RUN_COVERAGE=0`, respectively,
+to generate reports without grading. Generation requires model inference and
+retrieval access; grading makes paid API calls.
+
+HealthBench and ResearchQA outputs are written under `outputs/eval/healthbench/`
+and `outputs/eval/researchqa/`. DeepResearchBench trajectories are written under
+`outputs/eval/deep_research_bench/`, with generated reports and scores in the
+external evaluator's `data/test_data/raw_data/` and `results/` directories.
+These commands rerun the pipeline; live retrieval and judge responses can
+produce different scores from the saved paper artifacts.
 
 ## Reproduce the HealthBench subset
 
