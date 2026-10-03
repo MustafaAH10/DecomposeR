@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/../.."
 : "${JINA_API_KEY:?Set JINA_API_KEY in the environment}"
 : "${SERPER_API_KEY:?Set SERPER_API_KEY in the environment}"
 MODEL="${MODEL:-mustafaah/qwen3-8b-decomposer-v4-planner-answerer-rl-step358-merged}"
 python3 decomposer_v4/eval/run_end_to_end_reports.py \
-  --input-path examples/research_questions.jsonl \
+  --input-path demo/examples/research_questions.jsonl \
   --planner-model "$MODEL" --answerer-model "$MODEL" \
   --planner-backend vllm --answerer-backend vllm \
   --planner-temperature 0.2 --answerer-temperature 0.2 \

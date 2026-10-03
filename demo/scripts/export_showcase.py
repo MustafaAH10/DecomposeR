@@ -5,7 +5,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from decomposer_v4.schemas.graph import validate_graph
 
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     p.add_argument("--historical", action="store_true")
     p.add_argument("--skip-invalid", action="store_true", help="Preview only: print rejected IDs and export validated runs")
     a = p.parse_args()
-    rows = [json.loads(s) for s in (ROOT / "examples/research_questions.jsonl").read_text().split("\n") if s]
+    rows = [json.loads(s) for s in (ROOT / "demo/examples/research_questions.jsonl").read_text().split("\n") if s]
     titles = {r["id"]: r["title"] for r in rows}
     files = [a.source] if a.source.is_file() else sorted(a.source.glob("*.json"))
     data = []

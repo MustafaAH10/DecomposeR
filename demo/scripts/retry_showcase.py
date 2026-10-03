@@ -7,8 +7,8 @@ import sys
 import time
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT / "scripts"))
+ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "demo" / "scripts"))
 from export_showcase import convert
 
 run = ROOT / "demo_runs"
@@ -18,7 +18,7 @@ while not (run / "summary.json").exists():
         raise TimeoutError("Initial demo run did not finish before the retry deadline")
     time.sleep(15)
 time.sleep(10)
-rows = [json.loads(line) for line in (ROOT / "examples/research_questions.jsonl").read_text().splitlines() if line]
+rows = [json.loads(line) for line in (ROOT / "demo/examples/research_questions.jsonl").read_text().splitlines() if line]
 for seed in (29, 41):
     invalid = []
     for row in rows:
@@ -36,7 +36,7 @@ for seed in (29, 41):
     queries = attempt / "queries.jsonl"
     queries.write_text("".join(json.dumps(row) + "\n" for row in invalid))
     subprocess.run([
-        "bash", "scripts/run_demo.sh", "--input-path", str(queries), "--seed", str(seed),
+        "bash", "demo/scripts/run_demo.sh", "--input-path", str(queries), "--seed", str(seed),
         "--trajectory-dir", str(attempt / "trajectories"),
         "--output-jsonl", str(attempt / "reports.jsonl"), "--summary-json", str(attempt / "summary.json"),
     ], cwd=ROOT, check=True)

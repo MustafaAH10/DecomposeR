@@ -20,19 +20,19 @@ animations compress timing; they are not recordings of streamed tokens.
 
 ### Tree roots and nitrogen leaching
 
-[![Animated research replay: tree roots and nitrogen leaching](showcase/previews/demo01.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
+[![Animated research replay: tree roots and nitrogen leaching](demo/showcase/previews/demo01.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 [Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 ### Sodium-ion batteries
 
-[![Animated research replay: sodium-ion batteries](showcase/previews/demo03.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
+[![Animated research replay: sodium-ion batteries](demo/showcase/previews/demo03.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 [Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 ### Long-duration energy storage
 
-[![Animated research replay: long-duration energy storage](showcase/previews/demo12.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
+[![Animated research replay: long-duration energy storage](demo/showcase/previews/demo12.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 [Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
@@ -45,7 +45,7 @@ graph nodes, node-to-node navigation, source links, and complete model reports.
 |---|---|
 | Inspect saved benchmark reports and graphs without a GPU | `artifacts/evaluation/` |
 | Reproduce the HealthBench subset without a model or API keys | Command below |
-| Generate new research reports | `scripts/run_demo.sh` |
+| Generate new research reports | `demo/scripts/run_demo.sh` |
 | Read the exact planner and answerer instructions | `decomposer_v4/prompts/` |
 | Inspect training queries and RL rubrics | `artifacts/training_data/` |
 | Review artifact coverage and provenance | `docs/RELEASE_AUDIT.md` |
@@ -59,10 +59,11 @@ verl/                 Vendored training framework, with upstream license notices
 artifacts/
   training_data/      2,325 SFT queries; 1,432 RL queries with rubrics
   evaluation/         100 DRBench, 500 HealthBench and 776 ResearchQA trajectories
-examples/             New, explicitly separate demonstration questions
-scripts/              Demo generation and release-validation utilities
 docs/                 Artifact provenance and archived submission documentation
-showcase/             Three video examples, animated previews and viewer source
+demo/                 Demonstrations and repository presentation tools
+  examples/           Demonstration questions
+  scripts/            Demo generation and release-validation utilities
+  showcase/           Video examples, animated previews and viewer source
 ```
 
 The benchmark trajectories are lean: they preserve graphs, model outputs,
@@ -95,7 +96,7 @@ Use a compatible CUDA/vLLM environment, then install the small inference overlay
 python3 -m pip install -r requirements-inference.txt
 export JINA_API_KEY=...      # Search queries, up to five results per node
 export SERPER_API_KEY=...    # Fetch selected URLs, at most four per revision
-bash scripts/run_demo.sh
+bash demo/scripts/run_demo.sh
 ```
 
 The complete demonstration run uses a 96 GB GPU. The script does not rent
@@ -161,5 +162,5 @@ or:
 Original DecomposeR code is licensed under [Apache-2.0](LICENSE).
 Third-party components retain their respective licenses, including
 [VERL](verl/LICENSE), [simple-evals](decomposer_v4/eval/simple-evals/LICENSE),
-and the [Geist fonts](showcase/viewer/embed/fonts/OFL.txt).
+and the [Geist fonts](demo/showcase/viewer/embed/fonts/OFL.txt).
 Benchmark data and cited web content retain their upstream terms.

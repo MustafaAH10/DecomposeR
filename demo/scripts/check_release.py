@@ -4,7 +4,7 @@ import csv
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 for path in (ROOT / "decomposer_v4").rglob("*.py"):
     ast.parse(path.read_text(), filename=str(path))
 expected = {"deepresearchbench": 100, "healthbench": 500, "researchqa_mini": 776}

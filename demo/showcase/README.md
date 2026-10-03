@@ -13,7 +13,7 @@ separate concurrent model calls or captured token timing.
 
 ## Rebuild the embedded viewer
 
-Use Node 22 from `showcase/viewer`:
+Use Node 22 from `demo/showcase/viewer`:
 
 ```sh
 npm ci

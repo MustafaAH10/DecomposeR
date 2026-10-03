@@ -47,7 +47,7 @@ development paths and depend on unpublished prepared training artifacts.
 Local planner prompts and several runners differ from the submitted versions.
 This release retains the submitted prompts and fixes instead of silently
 replacing them with the current development files. Demo tooling and automated
-artifact checks are added separately under `scripts/` and `examples/`.
+artifact checks are added separately under `demo/scripts/` and `demo/examples/`.
 
 The independent `deep_research_bench/` evaluator is not bundled. It must be
 installed separately to rerun RACE/FACT. No model weights, API credentials,
