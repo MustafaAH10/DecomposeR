@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use DecomposeR in your research, please cite the paper below."
+type: software
+title: DecomposeR
+authors:
+  - family-names: Hussain
+    given-names: Mustafa Anis
+  - family-names: Wu
+    given-names: Xinle
+  - family-names: Lu
+    given-names: Yao
+repository-code: "https://github.com/MustafaAH10/DecomposeR-TMLR"
+url: "https://mustafaah10.github.io/DecomposeR/"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "DecomposeR: Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward"
+  authors:
+    - family-names: Hussain
+      given-names: Mustafa Anis
+    - family-names: Wu
+      given-names: Xinle
+    - family-names: Lu
+      given-names: Yao
+  journal: Transactions on Machine Learning Research
+  issn: "2835-8856"
+  year: 2026
+  url: "https://openreview.net/forum?id=qG4deYtMxL"

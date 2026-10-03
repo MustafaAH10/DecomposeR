@@ -1,7 +1,8 @@
 # DecomposeR
 
 Planner-centric reinforcement learning for deep research with structure-aware
-reward. Camera-ready release preparation for the accepted TMLR paper.
+reward. Official code and research artifacts for our paper in
+*Transactions on Machine Learning Research* (TMLR), 2026.
 
 DecomposeR first plans a typed research graph, searches the web, revises the
 graph once and chooses pages to fetch. It then writes evidence-grounded branch
@@ -11,32 +12,31 @@ load or switch between two separately released LoRA adapters.
 
 ## Research demonstrations
 
-[Explore all 20 interactive planner–answerer demonstrations](https://mustafaah10.github.io/DecomposeR/#research-viewer).
+[Explore interactive planner–answerer demonstrations](https://mustafaah10.github.io/DecomposeR/#research-viewer).
 Each 20-second replay shows a real saved rollout: planning, search, revision,
 branch reports written in the same execution wave, and final synthesis. The
 animations compress timing; they are not recordings of streamed tokens.
 
 ### Tree roots and nitrogen leaching
 
-[![Animated research replay: tree roots and nitrogen leaching](showcase/previews/demo01.gif)](showcase/videos/demo01.mp4)
+[![Animated research replay: tree roots and nitrogen leaching](showcase/previews/demo01.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
-[Watch or download the 1080p MP4](showcase/videos/demo01.mp4)
+[Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 ### Sodium-ion batteries
 
-[![Animated research replay: sodium-ion batteries](showcase/previews/demo03.gif)](showcase/videos/demo03.mp4)
+[![Animated research replay: sodium-ion batteries](showcase/previews/demo03.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
-[Watch or download the 1080p MP4](showcase/videos/demo03.mp4)
+[Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
 ### Long-duration energy storage
 
-[![Animated research replay: long-duration energy storage](showcase/previews/demo12.gif)](showcase/videos/demo12.mp4)
+[![Animated research replay: long-duration energy storage](showcase/previews/demo12.gif)](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
-[Watch or download the 1080p MP4](showcase/videos/demo12.mp4)
+[Click here](https://mustafaah10.github.io/DecomposeR/#research-viewer)
 
-The previews above link to the actual videos, which are included in this private
-repository. The public project page has all 20 videos, clickable graph nodes,
-node-to-node navigation, source links, and complete model reports.
+Explore the demonstrations on the project page, with video replays, clickable
+graph nodes, node-to-node navigation, source links, and complete model reports.
 
 ## Start here
 
@@ -47,7 +47,7 @@ node-to-node navigation, source links, and complete model reports.
 | Generate new research reports | `scripts/run_demo.sh` |
 | Read the exact planner and answerer instructions | `decomposer_v4/prompts/` |
 | Inspect training queries and RL rubrics | `artifacts/training_data/` |
-| Review release gaps and provenance | `docs/RELEASE_AUDIT.md` |
+| Review artifact coverage and provenance | `docs/RELEASE_AUDIT.md` |
 | Read the original submitted documentation | `docs/SUBMITTED_README.md` |
 
 ## Layout
@@ -60,7 +60,7 @@ artifacts/
   evaluation/         100 DRBench, 500 HealthBench and 776 ResearchQA trajectories
 examples/             New, explicitly separate demonstration questions
 scripts/              Demo generation and release-validation utilities
-docs/                 Release audit and archived submission documentation
+docs/                 Artifact provenance and archived submission documentation
 showcase/             Three video examples, animated previews and viewer source
 ```
 
@@ -125,9 +125,30 @@ Do not install that full stack merely to inspect saved results or prepare a
 subset. Full training also requires teacher completions/prepared evidence not
 included in this query-only data release.
 
-## Licensing and attribution
+## Citation
 
-This repository remains private while release preparation is underway. Preserve
-the licenses in `verl/` and `decomposer_v4/eval/simple-evals/`. A license for
-original DecomposeR code and final paper citation are still to be supplied by
-the authors. Benchmark data and cited web content retain their upstream terms.
+DecomposeR accompanies the paper *DecomposeR: Planner-Centric Reinforcement
+Learning for Deep Research with Structure-Aware Reward* (Hussain, Wu, and Lu,
+Transactions on Machine Learning Research, 2026;
+[OpenReview](https://openreview.net/forum?id=qG4deYtMxL)). If you use DecomposeR
+in your research, please cite it using the metadata in [`CITATION.cff`](CITATION.cff),
+or:
+
+```bibtex
+@article{hussain2026decomposer,
+  title   = {{DecomposeR}: Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward},
+  author  = {Hussain, Mustafa Anis and Wu, Xinle and Lu, Yao},
+  journal = {Transactions on Machine Learning Research},
+  issn    = {2835-8856},
+  year    = {2026},
+  url     = {https://openreview.net/forum?id=qG4deYtMxL}
+}
+```
+
+## License
+
+Original DecomposeR code is licensed under [Apache-2.0](LICENSE).
+Third-party components retain their respective licenses, including
+[VERL](verl/LICENSE), [simple-evals](decomposer_v4/eval/simple-evals/LICENSE),
+and the [Geist fonts](showcase/viewer/embed/fonts/OFL.txt).
+Benchmark data and cited web content retain their upstream terms.

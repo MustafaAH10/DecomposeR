@@ -16,22 +16,24 @@ starts from its contents, not the development repository's working tree.
   English/Chinese RACE and FACT summaries. DeepResearchBench per-item judge
   records are not in this archive.
 
-## Missing or recommended before a public camera-ready release
+## License and citation
 
-1. Choose a license for original DecomposeR code. Upstream VERL/simple-evals
-   licenses are present, but do not license the original project automatically.
-2. Add a model card to the public Hugging Face checkpoint: training stages,
-   intended use, limitations, prompting requirements, and upstream license.
-3. Add the final paper citation and author list after the final bibliographic
-   information is settled; do not guess a DOI or publication date.
-4. Preserve environment versions for the successful demo run. The submitted
-   requirements are largely unpinned and do not establish a reproducible GPU
-   environment on their own.
-5. If releasing statistical/robustness studies, include the actual baseline,
-   repeated-run, alternate-judge and human annotation records. This ZIP alone
-   does not substantiate all such studies.
-6. Add per-item DeepResearchBench RACE/FACT outputs from the development
-   outputs directory if redistribution is permitted.
+Original DecomposeR code is licensed under [Apache-2.0](../LICENSE).
+Third-party license notices are preserved. Paper metadata and the recommended
+citation are available in [`CITATION.cff`](../CITATION.cff) and the
+[README](../README.md#citation).
+
+## Artifact coverage and reproducibility
+
+- The submitted requirements are largely unpinned and do not establish a
+  reproducible GPU environment on their own. Record environment versions when
+  reproducing training or inference.
+- The archive contains final-model artifacts, rather than the full baseline,
+  repeated-run, alternate-judge, or human annotation records.
+- Per-item DeepResearchBench RACE/FACT judge outputs are not included; the
+  release contains aggregate summaries.
+- Checkpoint usage and limitations are described in the README. Consult the
+  public checkpoint's model card for any additional model-specific information.
 
 ## Comparison with the development `decomposer_v4` directory
 

@@ -6,7 +6,7 @@ surrounding content. The static viewer does not require a server, model, API key
 or ChatGPT login. All data is already generated.
 
 `videos/` contains the three README examples; `previews/` contains their animated
-GIF previews. All 20 validated demonstrations and full-resolution MP4s are in
+GIF previews. The included demonstrations and full-resolution MP4s are in
 `viewer/public/`. Original model text is preserved; animation timing is compressed.
 Same-wave report animations illustrate the answerer's execution grouping, not
 separate concurrent model calls or captured token timing.
